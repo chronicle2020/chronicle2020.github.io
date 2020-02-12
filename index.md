@@ -1,5 +1,6 @@
 |Date|News|
 |-|-|
+12/30/2019|[关于做好不明原因肺炎救治工作的紧急通知 - 未经授权，任何单位、个人不得擅自对外发布救治信息](https://www.nchrd.org/wp-content/uploads/2020/01/%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%95%91%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5.pdf)
 12/31/2019|[武汉市卫健委关于当前我市肺炎疫情的情况通报 - 已发现27例病例，其中7例病情严重](http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989)
 1/1/2020|[8名散布武汉肺炎谣言者被依法查处](https://www.thepaper.cn/newsDetail_forward_5402905)
 1/5/2020|[武汉市“两会”闭幕](https://epaper.hubeidaily.net/pc/content/202001/11/content_16885.html)
@@ -10,4 +11,5 @@
 1/20/2020|[习近平对新型冠状病毒感染的肺炎疫情作出重要指示 - 强调要把人民群众生命安全和身体健康放在第一位 坚决遏制疫情蔓延势头 李克强作出批示](http://politics.people.com.cn/n1/2020/0120/c1024-31557456.html)
 1/21/2020|[钟南山：新型冠状病毒很可能来自“野味”，存在人传人现象](https://news.sina.com.cn/o/2020-01-21/doc-iihnzhha3791299.shtml)
 1/23/2020|[武汉市新型冠状病毒感染的肺炎疫情防控指挥部通告（第1号） - 无特殊原因，市民不要离开武汉](http://www.gov.cn/xinwen/2020-01/23/content_5471751.htm)
+1/24/2020|[武汉版“小汤山”医院突击开建 ：“我们争取6天完工”](https://www.yicai.com/news/100480476.html)
 1/25/2020|[武汉市新型肺炎防控指挥部通告（第9号） - 除经许可外，中心城区区域实行机动车禁行管理](http://www.gov.cn/xinwen/2020-01/25/content_5472165.htm)
