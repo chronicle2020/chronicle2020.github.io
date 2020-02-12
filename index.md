@@ -1,3 +1,12 @@
-| Date  | News |
-|---|---|
-| 2019/12/31  | [武汉市卫健委通报：发现的多例肺炎病例为病毒性肺炎 未发现明显人传人现象](http://news.sciencenet.cn/htmlnews/2019/12/434410.shtm) | 
+|Date|News|Summary|Source|Source (en)|
+|-|-|-|-|-|
+12/31/2019|[武汉市卫健委关于当前我市肺炎疫情的情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989)|已发现27例病例，其中7例病情严重|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+1/3/2020|[武汉市卫健委关于不明原因的病毒性肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)|符合不明原因的病毒性肺炎诊断患者44例，其中重症11例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+1/5/2020|[武汉市卫生健康委员会关于不明原因的病毒性肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020)|共报告符合不明原因的病毒性肺炎诊断患者59例，其中重症患者7例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/11/2020|[武汉市卫生健康委关于不明原因的病毒性肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109035)|初步诊断有新型冠状病毒感染的肺炎病例41例，其中已出院2例、重症7例、死亡1例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/11/2020|[专家解读不明原因的病毒性肺炎最新通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)|这次武汉不明原因的病毒性肺炎病例大部分都有华南海鲜市场暴露史，目前没有发现明确的人传人证据|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/12/2020|[武汉市卫生健康委员会关于新型冠状病毒感染的肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)|截止目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院6例，在治重症7例，死亡1例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/13/2020|[武汉市卫生健康委员会关于新型冠状病毒感染的肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)|截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/14/2020|[武汉市卫生健康委员会关于新型冠状病毒感染的肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)|截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/15/2020|[武汉市卫生健康委员会关于新型冠状病毒感染的肺炎情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509046)|截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例|武汉市卫生健康委员会|Wuhan Municipal Health Commision
+01/15/2020|[新型冠状病毒感染的肺炎疫情知识问答](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509040)|2020年1月13日，泰国报道1例来自武汉的新型冠状病毒感染的肺炎病例；尚未发现明确的人传人证据，不能排除有限人传人的可能，但持续人传人的风险较低；目前确诊的41例病例中，发现一起为家庭聚集性，夫妻两人发病，丈夫先发病，为华南海鲜批发市场从业人员，妻子否认有华南海鲜批发市场暴露史|武汉市卫生健康委员会|Wuhan Municipal Health Commision
