@@ -1,1 +1,7 @@
-theme: jekyll-theme-midnight
+title: Chronicle 2020
+name: Chronicle 2020
+markdown: redcarpet
+highlighter: rouge
+github: [metadata]
+plugins:
+  - jekyll-seo-tag
