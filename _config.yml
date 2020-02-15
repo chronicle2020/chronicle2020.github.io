@@ -5,4 +5,3 @@ highlighter: rouge
 github: [metadata]
 plugins:
   - jekyll-seo-tag
-theme: jekyll-theme-hacker

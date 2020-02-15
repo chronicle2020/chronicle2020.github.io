@@ -1,0 +1,46 @@
+[
+  {
+    "date" : "12/30/2019",
+    "news" : [
+      {
+        "url": "https://www.nchrd.org/wp-content/uploads/2020/01/%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%95%91%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5.pdf",
+        "title": "关于做好不明原因肺炎救治工作的紧急通知 - 未经授权，任何单位个人不得擅自对外发布救治信息",
+      },
+    ]
+  },
+  {
+    "date" : "12/31/2019",
+    "news" : [
+      {
+        "url": "http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989",
+        "title": "武汉市卫健委关于当前我市肺炎疫情的情况通报",
+      },
+      {
+        "url": "http://www.bjnews.com.cn/news/2019/12/31/668435.html",
+        "title": "国家卫健委专家组已抵达武汉",
+      },
+    ]
+  },
+  {
+    "date" : "1/1/2020",
+    "news" : [
+      {
+        "url": "http://hb.people.com.cn/n2/2020/0101/c192237-33680870.html",
+        "title": "武汉华南海鲜市场休市整治",
+      },
+      {
+        "url": "http://hb.people.com.cn/n2/2020/0101/c192237-33681157.html",
+        "title": "8名散布武汉肺炎谣言者被依法查处",
+      },
+    ]
+  },
+  {
+    "date" : "1/4/2020",
+    "news" : [
+      {
+        "url": "https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm",
+        "title": "香港特区政府启动新型传染病严重应变级别",
+      },
+    ]
+  },
+]
