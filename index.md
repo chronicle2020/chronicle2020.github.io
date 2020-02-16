@@ -14,7 +14,7 @@ layout: default
     </tr>
 </thead>
 <tbody>
-{% for row in site.data.chronicle %}
+{% for row in site.data.test %}
     <tr>
         <td>{{ row.date }}</td>
         <td>
