@@ -1,7 +1,8 @@
-title: Chronicle 2020
+title: A chronicle of ncov-2019
 name: Chronicle 2020
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 github: [metadata]
 plugins:
   - jekyll-seo-tag
+theme: jekyll-theme-hacker
