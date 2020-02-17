@@ -6,3 +6,5 @@ github: [metadata]
 plugins:
   - jekyll-seo-tag
 theme: jekyll-theme-hacker
+encoding: utf-8
+url: https://covid19-chronicle.com
