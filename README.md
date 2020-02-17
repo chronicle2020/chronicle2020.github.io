@@ -1,2 +1,1 @@
-# chronicle2020.github.io
-Chronicle in 2020.
+Jekyll site. All rights reserved.
