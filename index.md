@@ -9,22 +9,23 @@ layout: default
 </colgroup>
 <thead>
     <tr class="header">
-        <th>Date</th>
-        <th>News</th>
+        <th>Date</th><th>News</th>
     </tr>
 </thead>
 <tbody>
-{% for row in site.data.chronicle %}
+    {% for row in site.data.chronicle %}
     <tr>
         <td>{{ row.date }}</td>
         <td>
             <ul>
                 {% for entry in row.news %}
-                    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+                <li>
+                    <a href="{{ entry.url }}">{{ entry.title }}</a> <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
+                </li>
                 {% endfor %}
             </ul>
         </td>
     </tr>
-{% endfor %}
+    {% endfor %}
 </tbody>
 </table>
