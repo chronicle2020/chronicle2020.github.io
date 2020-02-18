@@ -1,11 +1,12 @@
 title: 新冠病毒实时新闻梳理 COVID-19 Chronicle
-description: 独立记录和思考
+description: 发生了什么
 markdown: kramdown
 highlighter: rouge
 github: [metadata]
-plugins:
-  - jekyll-seo-tag
 theme: jekyll-theme-hacker
 encoding: utf-8
 url: https://covid19-chronicle.com
 google_analytics: UA-158667964-1
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
