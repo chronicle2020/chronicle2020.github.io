@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<small><i>最近一次更新：02/19/2020</i></small>
+
 <table>
 <colgroup>
     <col width="25%" />

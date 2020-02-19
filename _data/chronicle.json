@@ -435,6 +435,16 @@
     ]
   },
   {
+    "date": "2/10/2020",
+    "news": [
+      {
+        "source": "人民日报",
+        "title": "应收尽收 刻不容缓 - 武汉人数排查百分比达到99%",
+        "url": "http://paper.people.com.cn/rmrb/html/2020-02/11/nw.D110000renmrb_20200211_5-02.htm"
+      }
+    ]
+  },
+  {
     "date": "2/11/2020",
     "news": [
       {
@@ -516,6 +526,11 @@
         "source": "第一财经",
         "title": "湖北孝感：所有城镇居民严禁外出 所有车辆禁止上路",
         "url": "https://www.yicai.com/news/100507482.html"
+      },
+      {
+        "source": "新华网",
+        "title": "武汉开展3天集中拉网式大排查 要求“不漏一户、不漏一人”",
+        "url": "http://www.xinhuanet.com/2020-02/18/c_1125589417.htm"
       }
     ]
   },
@@ -536,6 +551,26 @@
         "source": "新浪",
         "title": "总攻，捷报！湖北首地清零",
         "url": "https://news.sina.com.cn/c/2020-02-17/doc-iimxyqvz3599768.shtml"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "武汉向确诊医务人员发慰问金：感染新冠肺炎去世医护发5000元",
+        "url": "http://www.chinanews.com/sh/2020/02-17/9094413.shtml"
+      },
+      {
+        "source": "新京报",
+        "title": "中国疾控中心报告：3019名医务人员感染新冠病毒，确诊1716例，死亡5例",
+        "url": "http://www.bjnews.com.cn/news/2020/02/17/690844.html"
+      }
+    ]
+  },
+  {
+    "date": "2/18/2020",
+    "news": [
+      {
+        "source": "财新",
+        "title": "武昌医院院长刘智明患新冠肺炎去世 为首位殉职院长",
+        "url": "http://china.caixin.com/2020-02-18/101517035.html"
       }
     ]
   }
