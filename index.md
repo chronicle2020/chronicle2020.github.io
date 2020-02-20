@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<small><i>最近一次更新：02/19/2020</i></small>
+<small><i>最近一次更新：02/19/2020, 有New标示的新闻为最新添加</i></small>
 
 <table>
 <colgroup>
@@ -22,7 +22,13 @@ layout: default
             <ul>
                 {% for entry in row.news %}
                 <li>
-                    <a href="{{ entry.url }}">{{ entry.title }}</a> <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
+                    <div class="news-entry">
+                        {% if entry.latest == "1" %}
+                            <span class="latest-badge">New</span>
+                        {% endif %}
+                        <a href="{{ entry.url }}">{{ entry.title }}</a>
+                         <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
+                    </div>
                 </li>
                 {% endfor %}
             </ul>

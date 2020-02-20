@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.news-entry {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
+.latest-badge {
+    position: absolute;
+    right:-25px;
+    top:10px;
+    background:red;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color:white;
+    padding:1px 5px;
+    font-size:11px;
+}
