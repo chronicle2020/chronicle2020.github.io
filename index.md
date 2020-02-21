@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<small><i>最近一次更新：02/19/2020, 有New标示的新闻为最新添加</i></small>
+<p class="update-info">
+<small>
+<i>
+{{ site.data.stats.today_date }} 更新：添加{{ site.data.stats.latest_count }}条，共收录{{ site.data.stats.total_count }}条，跨度{{ site.data.stats.days_covered }}天，有标示的条目为最新添加
+</i>
+</small>
+</p>
 
 <table>
 <colgroup>
@@ -24,7 +30,7 @@ layout: default
                 <li>
                     <div class="news-entry">
                         {% if entry.latest == "1" %}
-                            <span class="latest-badge">New</span>
+                            <span class="latest-badge">新</span>
                         {% endif %}
                         <a href="{{ entry.url }}">{{ entry.title }}</a>
                          <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
