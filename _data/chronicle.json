@@ -211,7 +211,7 @@
         "url": "http://www.bjd.com.cn/a/202001/24/WS5e2a2a50e4b0e6e58393bca1.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "楚天都市报",
         "title": "权威发布！新冠病毒的中医预防药方来了！湖北发布新冠肺炎诊疗指南",
         "url": "http://news.cnhubei.com/content/2020-01/23/content_12642904.html"
@@ -377,7 +377,7 @@
         "url": "https://www.thepaper.cn/newsDetail_forward_5726849"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "第一财经",
         "title": "韩红基金会：一天内筹款超1亿，今日表示暂停接受捐款",
         "url": "https://www.yicai.com/news/100485503.html"
@@ -450,7 +450,7 @@
         "url": "https://www.sohu.com/a/370953800_115479"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "21经济网",
         "title": "中国工程院副院长王辰：核酸检测率30%-50%，建议根据临床诊断纳入病例",
         "url": "https://m.21jingji.com/article/20200206/herald/8ef1399bab2341da2e8bf395f017fb08.html"
@@ -596,6 +596,12 @@
         "source": "求是",
         "title": "习近平：在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话",
         "url": "http://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm"
+      },
+      {
+        "latest": "1",
+        "source": "搜狐",
+        "title": "剪去秀发，背上行囊，走！甘肃省妇幼15名医护人员出征驰援湖北 ",
+        "url": "https://www.sohu.com/a/373240111_100237836"
       }
     ]
   },
@@ -621,13 +627,13 @@
         "url": "http://www.xinhuanet.com/2020-02/18/c_1125589417.htm"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "新华网",
         "title": "海南创新推出综合保险助力企业复工复产",
         "url": "http://www.xinhuanet.com/2020-02/16/c_1125583163.htm"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "新华网",
         "title": "北京通报一病例：外地返京后未隔离致同事被感染",
         "url": "http://www.xinhuanet.com/politics/2020-02/16/c_1125583460.htm"
@@ -684,16 +690,22 @@
     "date": "2/19/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "新京报",
         "title": "中国疾控中心论文：1月上旬新冠肺炎已在湖北省外蔓延",
         "url": "http://www.bjnews.com.cn/news/2020/02/19/691757.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "网易",
         "title": "驻俄使馆：20日起 俄罗斯全面禁止中国公民入境",
         "url": "https://news.163.com/20/0219/08/F5O2PN9F0001899O.html"
+      },
+      {
+        "latest": "1",
+        "source": "财新",
+        "title": "“钻石公主”号首批500名乘客开始下船 专家曝船内管理混乱",
+        "url": "http://international.caixin.com/2020-02-19/101517585.html"
       }
     ]
   },
@@ -701,10 +713,56 @@
     "date": "2/20/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "新京报",
         "title": "韩红爱心慈善基金被举报 北京市民政局回应",
         "url": "http://www.bjnews.com.cn/news/2020/02/20/692579.html"
+      },
+      {
+        "latest": "1",
+        "source": "新华网",
+        "title": "日韩确诊感染新冠病毒人数继续增加",
+        "url": "http://www.xinhuanet.com/world/2020-02/20/c_1125598620.htm"
+      }
+    ]
+  },
+  {
+    "date": "2/21/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "新京报",
+        "title": "全国5监狱发生感染，505人确诊，11人被免职",
+        "url": "http://www.bjnews.com.cn/feature/2020/02/21/692967.html"
+      },
+      {
+        "latest": "1",
+        "source": "湖北省人民政府",
+        "title": "湖北：新冠肺炎疫情统计不允许核减已确诊的病例",
+        "url": "https://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200221_2144623.shtml"
+      }
+    ]
+  },
+  {
+    "date": "2/22/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "央视新闻",
+        "title": "韩国新冠疫情快速蔓延 民众担忧进一步扩散",
+        "url": "http://m.news.cctv.com/2020/02/22/ARTImrhzjVqiOvbhcMRQAPjN200222.shtml"
+      },
+      {
+        "latest": "1",
+        "source": "央视新闻",
+        "title": "武汉启用游轮酒店 为医疗队提供住宿",
+        "url": "http://m.news.cctv.com/2020/02/22/ARTInEERXBhr20jgeVl42Xtn200222.shtml"
+      },
+      {
+        "latest": "1",
+        "source": "央视新闻",
+        "title": "美国新冠肺炎病例达到34例 或继续增加",
+        "url": "http://m.news.cctv.com/2020/02/22/ARTIBkv8M9wCSca9UsbsqaxP200222.shtml"
       }
     ]
   }
