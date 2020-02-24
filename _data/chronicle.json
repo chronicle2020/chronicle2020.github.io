@@ -192,6 +192,12 @@
         "source": "央视",
         "title": "美国疾控中心证实美国第1例新型冠状病毒感染的肺炎病例",
         "url": "http://m.news.cctv.com/2020/01/22/ARTIGk1IQT4e6kIUPg2sNtNV200122.shtml"
+      },
+      {
+        "latest": "1",
+        "source": "21经济网",
+        "title": "如何说服满不在乎的父母出门戴口罩？",
+        "url": "https://m.21jingji.com/article/20200122/herald/1958fcbf80847b398057e1c1521bd54f.html"
       }
     ]
   },
@@ -598,7 +604,7 @@
         "url": "http://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "搜狐",
         "title": "剪去秀发，背上行囊，走！甘肃省妇幼15名医护人员出征驰援湖北 ",
         "url": "https://www.sohu.com/a/373240111_100237836"
@@ -702,10 +708,16 @@
         "url": "https://news.163.com/20/0219/08/F5O2PN9F0001899O.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "财新",
         "title": "“钻石公主”号首批500名乘客开始下船 专家曝船内管理混乱",
         "url": "http://international.caixin.com/2020-02-19/101517585.html"
+      },
+      {
+        "latest": "1",
+        "source": "央视新闻",
+        "title": "现要求你立即停止工作，强制休息，这是命令！",
+        "url": "http://m.news.cctv.com/2020/02/19/ARTIRr0vK7gWiwgtENPfGqs5200219.shtml"
       }
     ]
   },
@@ -719,10 +731,16 @@
         "url": "http://www.bjnews.com.cn/news/2020/02/20/692579.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "新华网",
         "title": "日韩确诊感染新冠病毒人数继续增加",
         "url": "http://www.xinhuanet.com/world/2020-02/20/c_1125598620.htm"
+      },
+      {
+        "latest": "1",
+        "source": "四川在线",
+        "title": "援助湖北的四川医务人员，火锅免费吃一年！400多家店等你凯旋",
+        "url": "https://cbgc.scol.com.cn/news/240126"
       }
     ]
   },
@@ -730,13 +748,13 @@
     "date": "2/21/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "新京报",
         "title": "全国5监狱发生感染，505人确诊，11人被免职",
         "url": "http://www.bjnews.com.cn/feature/2020/02/21/692967.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "湖北省人民政府",
         "title": "湖北：新冠肺炎疫情统计不允许核减已确诊的病例",
         "url": "https://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200221_2144623.shtml"
@@ -747,22 +765,44 @@
     "date": "2/22/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "央视新闻",
         "title": "韩国新冠疫情快速蔓延 民众担忧进一步扩散",
         "url": "http://m.news.cctv.com/2020/02/22/ARTImrhzjVqiOvbhcMRQAPjN200222.shtml"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "央视新闻",
         "title": "武汉启用游轮酒店 为医疗队提供住宿",
         "url": "http://m.news.cctv.com/2020/02/22/ARTInEERXBhr20jgeVl42Xtn200222.shtml"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "央视新闻",
         "title": "美国新冠肺炎病例达到34例 或继续增加",
         "url": "http://m.news.cctv.com/2020/02/22/ARTIBkv8M9wCSca9UsbsqaxP200222.shtml"
+      }
+    ]
+  },
+  {
+    "date": "2/23/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "新浪",
+        "title": "三场意甲因新冠肺炎宣布延期！国米比赛在列",
+        "url": "https://sports.sina.com.cn/g/seriea/2020-02-23/doc-iimxyqvz5091169.shtml"
+      }
+    ]
+  },
+  {
+    "date": "2/24/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "新华网",
+        "title": "韩国新冠病毒感染病例升至763例",
+        "url": "http://www.xinhuanet.com/2020-02/24/c_1125618761.htm"
       }
     ]
   }
