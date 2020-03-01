@@ -5,7 +5,7 @@ layout: default
 <p class="update-info">
 <small>
 <i>
-{{ site.data.stats.today_date }} 更新：添加{{ site.data.stats.latest_count }}条，共收录{{ site.data.stats.total_count }}条，跨度{{ site.data.stats.days_covered }}天，有标示的条目为最新添加
+{{ site.data.stats.today_date }} 更新：添加{{ site.data.stats.latest_count }}条，共收录{{ site.data.stats.total_count }}条，跨度{{ site.data.stats.days_covered }}天，有标示的条目为最新添加。另，由于最近病毒全球蔓延，近期会加入全球新闻，stay tuned
 </i>
 </small>
 </p>
