@@ -20,8 +20,8 @@ with open('./_data/raw_data.csv', newline='', encoding='utf-8') as csvfile:
         })
         news_ct += 1
         latest_ct += row[4] == "1"
-        if not start_dt: start_dt = datetime.strptime(row[0], '%m/%d/%Y')
-        end_dt = datetime.strptime(row[0], dt_format)
+        if not end_dt: end_dt = datetime.strptime(row[0], '%m/%d/%Y')
+        start_dt = datetime.strptime(row[0], dt_format)
 
     res = []
     for date,news in news_by_date.items():
