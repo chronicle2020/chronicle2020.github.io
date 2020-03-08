@@ -33,7 +33,7 @@ layout: default
                             <span class="latest-badge">新</span>
                         {% endif %}
                         {% if entry.url == "" %}
-                            <a href="{{ site.baseurl }}/404.html"><strike>{{ entry.title }}</strike></a>
+                            <a href="{% link 404.md %}"><strike>{{ entry.title }}</strike></a>
                         {% else %}
                             <a href="{{ entry.url }}">{{ entry.title }}</a> <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
                         {% endif %}
