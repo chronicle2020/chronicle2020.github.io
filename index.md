@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <p class="update-info">
@@ -10,7 +10,7 @@ layout: default
 </small>
 </p>
 
-<table>
+<table class="table table-sm">
 <colgroup>
     <col width="25%" />
     <col width="75%" />
@@ -25,7 +25,7 @@ layout: default
     <tr>
         <td>{{ row.date }}</td>
         <td>
-            <ul>
+            <ul class="list-unstyled">
                 {% for entry in row.news %}
                 <li>
                     <div class="news-entry">

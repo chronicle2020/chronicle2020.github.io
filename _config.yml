@@ -3,7 +3,6 @@ description: 新闻是独立思考和探索的起点，不是终点
 markdown: kramdown
 highlighter: rouge
 github: [metadata]
-theme: jekyll-theme-hacker
 encoding: utf-8
 url: https://covid19-chronicle.com
 google_analytics: UA-158667964-1
