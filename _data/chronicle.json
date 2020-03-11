@@ -1,15 +1,48 @@
 [
   {
-    "date": "3/7/2020",
+    "date": "3/10/2020",
     "news": [
       {
         "latest": "1",
+        "source": "新华网",
+        "title": "习近平抵武汉考察新冠肺炎疫情防控工作",
+        "url": "http://www.xinhuanet.com/politics/2020-03/10/c_1125689450.htm"
+      }
+    ]
+  },
+  {
+    "date": "3/9/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "新闻联播",
+        "title": "钟南山：全球疫情的发展估计将至少延续至6月份",
+        "url": "https://mp.weixin.qq.com/s/uZ0CcvNGApIFN3JfmLrglw"
+      }
+    ]
+  },
+  {
+    "date": "3/8/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "新京报",
+        "title": "湖北书记应勇：武汉人民识大体、顾大局，我要衷心感谢",
+        "url": "http://www.bjnews.com.cn/feature/2020/03/08/700896.html"
+      }
+    ]
+  },
+  {
+    "date": "3/7/2020",
+    "news": [
+      {
+        "latest": "",
         "source": "新京报",
         "title": "泉州倒塌酒店系新冠肺炎隔离点 被困人员约70人",
         "url": "http://www.bjnews.com.cn/news/2020/03/07/700549.html"
       },
       {
-        "latest": "1",
+        "latest": "",
         "source": "",
         "title": "武汉市委王忠林：在市民中开展感恩教育形成强大正能量",
         "url": ""
@@ -20,7 +53,7 @@
     "date": "3/5/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "新华网",
         "title": "商务部：未发布过有关口罩及其生产原材料出口的禁令",
         "url": "http://www.xinhuanet.com/politics/2020-03/05/c_1125669446.htm"
@@ -36,6 +69,17 @@
         "source": "新京报",
         "title": "李文亮等34人追授疫情防控先进个人称号",
         "url": "http://www.bjnews.com.cn/news/2020/03/05/699362.html"
+      }
+    ]
+  },
+  {
+    "date": "3/4/2020",
+    "news": [
+      {
+        "latest": "1",
+        "source": "腾讯",
+        "title": "张文宏谈复工：如果不复工，人口死亡率恐将高于新冠肺炎",
+        "url": "https://xw.qq.com/cmsid/20200304V0GRPJ00"
       }
     ]
   },
@@ -58,6 +102,12 @@
         "source": "新华网",
         "title": "首家方舱医院休舱！武汉这三个地点全部实现“床等人”",
         "url": "http://www.xinhuanet.com/politics/2020-03/02/c_1125650482.htm"
+      },
+      {
+        "latest": "1",
+        "source": "新华网",
+        "title": "中国口罩日产能产量双双破亿",
+        "url": "http://www.gov.cn/xinwen/2020-03/02/content_5486099.htm"
       }
     ]
   },
@@ -110,7 +160,7 @@
     "date": "2/26/2020",
     "news": [
       {
-        "latest": "1",
+        "latest": "",
         "source": "财新",
         "title": "湖北404名民辅警感染新冠肺炎 4人因感染身故",
         "url": "http://china.caixin.com/2020-02-26/101520965.html"
