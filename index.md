@@ -23,19 +23,19 @@ layout: home
 <tbody>
     {% for row in site.data.chronicle %}
     <tr>
-        <td>{{ row.date }}</td>
+        <td style="text-align: center; vertical-align: middle;">{{ row.date }}</td>
         <td>
             <ul class="list-unstyled">
                 {% for entry in row.news %}
                 <li>
                     <div class="news-entry">
                         {% if entry.latest == "1" %}
-                            <span class="latest-badge">新</span>
+                            <span class="badge badge-pill badge-danger latest-badge">新</span>
                         {% endif %}
                         {% if entry.url == "" %}
-                            <a href="{% link 404.md %}"><strike>{{ entry.title }}</strike></a>
+                            <a href="{% link 404.md %}"><del>{{ entry.title }}</del></a>
                         {% else %}
-                            <a href="{{ entry.url }}">{{ entry.title }}</a> <code class="language-plaintext highlighter-rouge">{{ entry.source }}</code>
+                            <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> <span class="badge badge-secondary">{{ entry.source }}</span>
                         {% endif %}
                     </div>
                 </li>
