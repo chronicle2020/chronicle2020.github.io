@@ -1,3 +1,6 @@
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
+// when page loads
+$(document).ready(function() {
+    // get current URL path and assign 'active' class
+    var pathname = window.location.pathname;
+    $('.navbar-nav > li > a[href="'+pathname+'"]').parent().addClass('active');
+})
