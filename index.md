@@ -10,6 +10,8 @@ layout: home
 </small>
 </p>
 
+只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary" data-size="sm">
+
 <table class="table table-sm">
 <colgroup>
     <col width="25%" />
@@ -22,14 +24,14 @@ layout: home
 </thead>
 <tbody>
     {% for row in site.data.chronicle %}
-    <tr>
+    <tr class="{{ row.status }}">
         <td style="text-align: center; vertical-align: middle;">{{ row.date }}</td>
         <td>
             <ul class="list-unstyled">
                 {% for entry in row.news %}
-                <li>
+                <li class="{{ entry.status }}">
                     <div class="news-entry">
-                        {% if entry.latest == "1" %}
+                        {% if entry.status == "latest" %}
                             <span class="badge badge-pill badge-danger latest-badge">新</span>
                         {% endif %}
                         {% if entry.url == "" %}

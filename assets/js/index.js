@@ -4,3 +4,13 @@ $(document).ready(function() {
     var pathname = window.location.pathname;
     $('.navbar-nav > li > a[href="'+pathname+'"]').parent().addClass('active');
 })
+
+$(function() {
+    $('#toggle-latest').change(function() {
+        if ($(this).prop('checked') == true) {
+            $('.old').hide();
+        } else {
+            $('.old').show();
+        }
+    })
+})

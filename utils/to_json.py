@@ -7,6 +7,7 @@ dt_format = '%m/%d/%Y'
 
 with open('./_data/raw_data.csv', newline='', encoding='utf-8') as csvfile:
     news_by_date = collections.defaultdict(list)
+    news_by_date_status = collections.defaultdict(bool)
     news_ct = 0
     latest_ct = 0
     start_dt = None
@@ -16,16 +17,17 @@ with open('./_data/raw_data.csv', newline='', encoding='utf-8') as csvfile:
             "url":   row[1],
             "title": row[2],
             "source":row[3],
-            "latest":row[4],
+            "status":"latest" if row[4] == "1" else "old",
         })
         news_ct += 1
         latest_ct += row[4] == "1"
         if not end_dt: end_dt = datetime.strptime(row[0], '%m/%d/%Y')
         start_dt = datetime.strptime(row[0], dt_format)
+        if row[4] == "1": news_by_date_status[row[0]] = True
 
     res = []
     for date,news in news_by_date.items():
-        res.append({"date": date, "news": news})
+        res.append({"date": date, "news": news, "status": "latest" if news_by_date_status[date] else "old"})
 
     with open('./_data/chronicle.json', 'w+', encoding='utf-8') as output:
         json.dump(res, output, sort_keys=True, indent=2, ensure_ascii=False)
