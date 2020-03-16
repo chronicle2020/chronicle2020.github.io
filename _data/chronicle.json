@@ -1,30 +1,60 @@
 [
   {
+    "date": "3/16/2020",
+    "news": [
+      {
+        "source": "京报网",
+        "status": "latest",
+        "title": "应对境外疫情输入风险，北京小汤山定点医院今启用",
+        "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f5187e4b01e8b91509958.html"
+      },
+      {
+        "source": "京报网",
+        "status": "latest",
+        "title": "一路瞒报来京，美国输入病例黎某被立案侦查",
+        "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f3c27e4b01e8b91509930.html"
+      },
+      {
+        "source": "观察者网",
+        "status": "latest",
+        "title": "疫情交叉点：国外累计确诊病例已超过中国",
+        "url": "https://www.guancha.cn/internation/2020_03_16_541870.shtml"
+      }
+    ],
+    "status": "latest"
+  },
+  {
     "date": "3/14/2020",
     "news": [
       {
         "source": "人民网",
-        "status": "latest",
+        "status": "old",
         "title": "习近平就新冠肺炎疫情向欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩致慰问电",
         "url": "http://politics.people.com.cn/n1/2020/0314/c1024-31632048.html"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "武汉江岸区回应“一社区用殡仪车运送团购物资”：不属实",
         "url": "http://www.bjnews.com.cn/feature/2020/03/14/703877.html"
       },
       {
         "source": "财新",
-        "status": "latest",
+        "status": "old",
         "title": "库克：关闭苹果大中华区以外的所有零售商店至3月27日",
         "url": "http://www.bjnews.com.cn/finance/2020/03/14/703745.html"
       },
       {
         "source": "新浪",
-        "status": "latest",
+        "status": "old",
         "title": "境外输入首次多于本土新增病例",
         "url": "https://news.sina.com.cn/c/2020-03-14/doc-iimxyqwa0354849.shtml"
+      },
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "北京市通报一例美国输入确诊病例情况",
+        "url": "http://www.xinhuanet.com/2020-03/14/c_1125712909.htm"
       }
     ],
     "status": "latest"
@@ -34,30 +64,30 @@
     "news": [
       {
         "source": "财新",
-        "status": "latest",
+        "status": "old",
         "title": "武汉女子一度敲锣救母 今天母亲出院了",
         "url": "http://china.caixin.com/2020-03-13/101513304.html"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "全国21个省份超过14天无新增本土确诊病例",
         "url": "http://www.bjnews.com.cn/news/2020/03/13/703285.html"
       }
     ],
-    "status": "latest"
+    "status": "old"
   },
   {
     "date": "3/12/2020",
     "news": [
       {
         "source": "北京日报",
-        "status": "latest",
+        "status": "old",
         "title": "泉州欣佳酒店坍塌致29人死亡，国务院成立事故调查组",
         "url": "https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5e69b86fe4b05e10384b41ff.html?isshare=1&contentType=0&isBjh=0"
       }
     ],
-    "status": "latest"
+    "status": "old"
   },
   {
     "date": "3/11/2020",
@@ -79,9 +109,15 @@
         "status": "old",
         "title": "医疗废弃物如何处理？怎样避免对环境带来影响？",
         "url": "http://www.xinhuanet.com/2020-03/11/c_1125698062.htm"
+      },
+      {
+        "source": "澎湃",
+        "status": "latest",
+        "title": "郑州确诊首例境外输入病例：返郑后隐瞒境外行程，警方已立案",
+        "url": "https://www.thepaper.cn/newsDetail_forward_6452848"
       }
     ],
-    "status": "old"
+    "status": "latest"
   },
   {
     "date": "3/10/2020",
@@ -193,9 +229,15 @@
         "status": "old",
         "title": "李文亮等34人追授疫情防控先进个人称号",
         "url": "http://www.bjnews.com.cn/news/2020/03/05/699362.html"
+      },
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "科学防止境外疫情输入",
+        "url": "http://www.xinhuanet.com/comments/2020-03/05/c_1125664247.htm"
       }
     ],
-    "status": "old"
+    "status": "latest"
   },
   {
     "date": "3/4/2020",
@@ -232,7 +274,7 @@
       },
       {
         "source": "网易",
-        "status": "latest",
+        "status": "old",
         "title": "女生无手机上网课自杀?其父:出事当天学校要出试题",
         "url": "https://news.163.com/20/0302/00/F6M3V2AQ00019B3E.html"
       },
@@ -243,7 +285,7 @@
         "url": "http://www.gov.cn/xinwen/2020-03/02/content_5486099.htm"
       }
     ],
-    "status": "latest"
+    "status": "old"
   },
   {
     "date": "3/1/2020",
@@ -418,12 +460,12 @@
       },
       {
         "source": "人民网",
-        "status": "latest",
+        "status": "old",
         "title": "青海，清零！18例确诊病例全部治愈出院",
         "url": "http://yuqing.people.com.cn/n1/2020/0221/c209043-31598646.html"
       }
     ],
-    "status": "latest"
+    "status": "old"
   },
   {
     "date": "2/20/2020",
