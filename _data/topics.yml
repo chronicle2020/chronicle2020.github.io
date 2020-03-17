@@ -1,8 +1,14 @@
-- name: 输入病例
+- name: 经济
   value: 1
-- name: 习近平
+- name: 医护人员
   value: 2
-- name: 方舱
+- name: 输入病例
   value: 3
-- name: 李文亮
+- name: 方舱
   value: 4
+- name: 习近平
+  value: 5
+- name: 钟南山
+  value: 6
+- name: 李文亮
+  value: 7
