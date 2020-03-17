@@ -2,16 +2,17 @@
   {
     "date": "3/7/2020",
     "status": "latest",
+    "topics": ["topic1"],
     "news": [
       {
-        "tags": ["1","2"],
+        "topics": ["topic1"],
         "status": "latest",
         "source": "新京报",
         "title": "泉州倒塌酒店系新冠肺炎隔离点 被困人员约70人",
         "url": "http://www.bjnews.com.cn/news/2020/03/07/700549.html"
       },
       {
-        "tags": ["1"],
+        "topics": ["topic1"],
         "status": "old",
         "source": "",
         "title": "武汉市委王忠林：在市民中开展感恩教育形成强大正能量",
@@ -22,23 +23,24 @@
   {
     "date": "3/5/2020",
     "status": "old",
+    "topics": ["topic1","topic2"],
     "news": [
       {
-        "tags": ["1","2"],
+        "topics": ["topic1","topic2"],
         "status": "old",
         "source": "新华网",
         "title": "商务部：未发布过有关口罩及其生产原材料出口的禁令",
         "url": "http://www.xinhuanet.com/politics/2020-03/05/c_1125669446.htm"
       },
       {
-        "tags": ["1"],
+        "topics": ["topic1"],
         "status": "old",
         "source": "新京报",
         "title": "新冠患者出院后死亡，王广发：是否复发不宜过早下结论",
         "url": "http://www.bjnews.com.cn/feature/2020/03/05/699575.html"
       },
       {
-        "tags": ["2"],
+        "topics": ["topic2"],
         "status": "old",
         "source": "新京报",
         "title": "李文亮等34人追授疫情防控先进个人称号",

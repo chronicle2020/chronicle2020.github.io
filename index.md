@@ -10,7 +10,23 @@ layout: home
 </small>
 </p>
 
-只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary" data-size="sm">
+<div class="container pb-4">
+  <div class="row">
+    <div class="col">
+        只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary">
+    </div>
+    <div class="col old">
+        <span class="inline">只看主题</span>
+        <div class="btn-group btn-group-toggle old pull-left" data-toggle="buttons" id="theme-checkbox">
+            {% for topic in site.data.topics %}
+            <label class="btn btn-secondary">
+                <input type="checkbox" name="theme-checkbox" autocomplete="off" class="theme-checkbox" value="{{ topic.value }}"> {{ topic.name }}
+            </label>
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+</div>
 
 <table class="table table-sm">
 <colgroup>
@@ -18,18 +34,19 @@ layout: home
     <col width="75%" />
 </colgroup>
 <thead>
-    <tr class="header">
-        <th>Date</th><th>News</th>
+    <tr class="header text-center">
+        <th>Date</th>
+        <th>News</th>
     </tr>
 </thead>
 <tbody>
     {% for row in site.data.chronicle %}
-    <tr class="{{ row.status }}">
+    <tr class="{{ row.status }} {{ row.topics | join: " " }}">
         <td style="text-align: center; vertical-align: middle;">{{ row.date }}</td>
         <td>
             <ul class="list-unstyled">
                 {% for entry in row.news %}
-                <li class="{{ entry.status }}">
+                <li class="{{ entry.status }} {{ entry.topics | join: " " }}">
                     <div class="news-entry">
                         {% if entry.status == "latest" %}
                             <span class="badge badge-pill badge-danger latest-badge">新</span>
