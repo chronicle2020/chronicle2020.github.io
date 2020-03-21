@@ -1,55 +1,117 @@
 [
   {
+    "date": "3/21/2020",
+    "news": [
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "中国足协：国足队员武磊确诊感染新冠病毒",
+        "topics": [],
+        "url": "http://sports.xinhuanet.com/c/2020-03/21/c_1125747125.htm"
+      },
+      {
+        "source": "驻墨尔本总领馆",
+        "status": "latest",
+        "title": "中国驻墨尔本总领事馆高度关注留学生遭袭事件",
+        "topics": [],
+        "url": "http://melbourne.china-consulate.org/chn/lsbh/t1759067.htm"
+      },
+      {
+        "source": "网易",
+        "status": "latest",
+        "title": "网传武汉小区有新增病例 官方:无症状感染者非确诊",
+        "topics": [],
+        "url": "https://news.163.com/20/0321/00/F870B3IG0001899O.html"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "3/20/2020",
+    "news": [
+      {
+        "source": "国际金融报",
+        "status": "latest",
+        "title": "全球疫情阴霾下，外贸“黄金月”被迫按下暂停键，企业该如何自救？",
+        "topics": [
+          1
+        ],
+        "url": "https://mp.weixin.qq.com/s/d5_yUOfygyoSN7fiWimCew"
+      },
+      {
+        "source": "中国新闻网",
+        "status": "latest",
+        "title": "江西试行周末2.5天弹性作息提振文旅消费",
+        "topics": [
+          1
+        ],
+        "url": "http://www.chinanews.com/gn/2020/03-20/9131607.shtml"
+      },
+      {
+        "source": "澎湃",
+        "status": "latest",
+        "title": "武汉市中心医院伦理委员会成员刘励因感染新冠肺炎，不幸离世",
+        "topics": [],
+        "url": "https://www.thepaper.cn/newsDetail_forward_6603012"
+      }
+    ],
+    "status": "latest",
+    "topics": [
+      1
+    ]
+  },
+  {
     "date": "3/19/2020",
     "news": [
       {
         "source": "国家监察委员会",
-        "status": "latest",
+        "status": "old",
         "title": "国家监委调查组负责人答记者问",
         "topics": [
-          1
+          2
         ],
         "url": "http://www.ccdi.gov.cn/toutiao/202003/t20200319_213887.html"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "李文亮有关情况调查结果公布 调查组建议撤销训诫并追责",
         "topics": [
-          1
+          2
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706273.html"
       },
       {
         "source": "新浪",
-        "status": "latest",
+        "status": "old",
         "title": "湖北首次零新增！31省区市无新增本土确诊病例",
         "topics": [],
         "url": "https://news.sina.com.cn/c/2020-03-19/doc-iimxxsth0141269.shtml"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "不戴口罩在小区跑步 澳大利亚进京女子被限期离境",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706172.html"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "北京建议留学生如非必须暂停回国",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/705897.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": [
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -57,24 +119,24 @@
     "news": [
       {
         "source": "财经",
-        "status": "latest",
+        "status": "old",
         "title": "火神山工人想回家：至少9人确诊，生计暂难为继",
         "topics": [],
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653356465&idx=3&sn=97c4602dbfb96777201fabd7d1ef8c3e"
       },
       {
         "source": "人民网",
-        "status": "latest",
+        "status": "old",
         "title": "武汉交警以最高礼遇护航首批援汉医疗队返程",
         "topics": [
-          3
+          4
         ],
         "url": "http://legal.people.com.cn/n1/2020/0318/c42510-31637353.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -85,7 +147,7 @@
         "status": "old",
         "title": "7省11地市委书记、市长带头“下馆子逛超市” 经济专家：释放消费信号",
         "topics": [
-          4
+          1
         ],
         "url": "https://new.qq.com/omn/20200317/20200317A0B25D00.html"
       },
@@ -94,7 +156,7 @@
         "status": "old",
         "title": "北京600名医护人员支援小汤山",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/17/705079.html"
       },
@@ -103,14 +165,14 @@
         "status": "old",
         "title": "澳籍华人女子抵京拒绝隔离 拜耳中国：辞退，立刻生效！",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/03/17/705232.html"
       }
     ],
     "status": "old",
     "topics": [
-      2,
+      1,
       3,
       4
     ]
@@ -123,7 +185,7 @@
         "status": "old",
         "title": "中央应对新冠肺炎疫情工作领导小组：制定方案组织援鄂医务人员分批撤离",
         "topics": [
-          3
+          4
         ],
         "url": "http://m.news.cctv.com/2020/03/16/ARTIx9ujYVBBgCM7CUW9aCok200316.shtml"
       },
@@ -132,7 +194,7 @@
         "status": "old",
         "title": "应对境外疫情输入风险，北京小汤山定点医院今启用",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f5187e4b01e8b91509958.html"
       },
@@ -141,7 +203,7 @@
         "status": "old",
         "title": "一路瞒报来京，美国输入病例黎某被立案侦查",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f3c27e4b01e8b91509930.html"
       },
@@ -150,7 +212,7 @@
         "status": "old",
         "title": "疫情交叉点：国外累计确诊病例已超过中国",
         "topics": [
-          2
+          3
         ],
         "url": "https://www.guancha.cn/internation/2020_03_16_541870.shtml"
       },
@@ -159,14 +221,14 @@
         "status": "old",
         "title": "国家统计局：疫情对中国经济影响总体可控",
         "topics": [
-          4
+          1
         ],
         "url": "https://news.sina.com.cn/c/2020-03-16/doc-iimxxstf9398831.shtml"
       }
     ],
     "status": "old",
     "topics": [
-      2,
+      1,
       3,
       4
     ]
@@ -220,7 +282,7 @@
         "status": "old",
         "title": "境外输入首次多于本土新增病例",
         "topics": [
-          2
+          3
         ],
         "url": "https://news.sina.com.cn/c/2020-03-14/doc-iimxyqwa0354849.shtml"
       },
@@ -229,14 +291,14 @@
         "status": "old",
         "title": "北京市通报一例美国输入确诊病例情况",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.xinhuanet.com/2020-03/14/c_1125712909.htm"
       }
     ],
     "status": "old",
     "topics": [
-      2,
+      3,
       6
     ]
   },
@@ -276,14 +338,14 @@
         "status": "old",
         "title": "北京：非疫情严重国家入境进京人员也要观察14天",
         "topics": [
-          2
+          3
         ],
         "url": "http://media.workercn.cn/sites/media/grrb/2020_03/12/GR0105.htm?spm=C73544894212.P59511941341.0.0"
       }
     ],
     "status": "old",
     "topics": [
-      2
+      3
     ]
   },
   {
@@ -315,14 +377,14 @@
         "status": "old",
         "title": "郑州确诊首例境外输入病例：返郑后隐瞒境外行程，警方已立案",
         "topics": [
-          2
+          3
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6452848"
       }
     ],
     "status": "old",
     "topics": [
-      2
+      3
     ]
   },
   {
@@ -469,7 +531,7 @@
         "status": "old",
         "title": "李文亮等34人追授疫情防控先进个人称号",
         "topics": [
-          1
+          2
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/05/699362.html"
       },
@@ -478,7 +540,7 @@
         "status": "old",
         "title": "科学防止境外疫情输入",
         "topics": [
-          2
+          3
         ],
         "url": "http://www.xinhuanet.com/comments/2020-03/05/c_1125664247.htm"
       },
@@ -487,15 +549,15 @@
         "status": "old",
         "title": "集中驳回“李文亮”等37件恶意商标注册申请",
         "topics": [
-          1
+          2
         ],
         "url": "http://www.cnipa.gov.cn/zscqgz/1146478.htm"
       }
     ],
     "status": "old",
     "topics": [
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -657,14 +719,14 @@
         "status": "old",
         "title": "国家发改委相关负责人指出 疫情对经济社会影响总体可控",
         "topics": [
-          4
+          1
         ],
         "url": "http://paper.people.com.cn/rmrbhwb/html/2020-02/25/content_1972859.htm"
       }
     ],
     "status": "old",
     "topics": [
-      4
+      1
     ]
   },
   {
@@ -731,7 +793,7 @@
         "status": "old",
         "title": "武汉启用游轮酒店 为医疗队提供住宿",
         "topics": [
-          3
+          4
         ],
         "url": "http://m.news.cctv.com/2020/02/22/ARTInEERXBhr20jgeVl42Xtn200222.shtml"
       },
@@ -752,7 +814,7 @@
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -847,7 +909,7 @@
         "status": "old",
         "title": "现要求你立即停止工作，强制休息，这是命令！",
         "topics": [
-          3
+          4
         ],
         "url": "http://m.news.cctv.com/2020/02/19/ARTIRr0vK7gWiwgtENPfGqs5200219.shtml"
       },
@@ -860,15 +922,15 @@
       },
       {
         "source": "新浪",
-        "status": "latest",
+        "status": "old",
         "title": "火神山医院工人不要工钱坚决不领工资?承建方回应",
         "topics": [],
         "url": "https://news.163.com/20/0219/04/F5NJNBE70001899O.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -879,14 +941,14 @@
         "status": "old",
         "title": "武昌医院院长刘智明患新冠肺炎去世 为首位殉职院长",
         "topics": [
-          3
+          4
         ],
         "url": "http://china.caixin.com/2020-02-18/101517035.html"
       }
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -918,7 +980,7 @@
         "status": "old",
         "title": "武汉向确诊医务人员发慰问金：感染新冠肺炎去世医护发5000元",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.chinanews.com/sh/2020/02-17/9094413.shtml"
       },
@@ -927,7 +989,7 @@
         "status": "old",
         "title": "中国疾控中心报告：3019名医务人员感染新冠病毒，确诊1716例，死亡5例",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.bjnews.com.cn/news/2020/02/17/690844.html"
       },
@@ -941,7 +1003,7 @@
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -1024,14 +1086,14 @@
         "status": "old",
         "title": "剪去秀发，背上行囊，走！甘肃省妇幼15名医护人员出征驰援湖北 ",
         "topics": [
-          3
+          4
         ],
         "url": "https://www.sohu.com/a/373240111_100237836"
       }
     ],
     "status": "old",
     "topics": [
-      3,
+      4,
       6
     ]
   },
@@ -1159,14 +1221,14 @@
         "status": "old",
         "title": "国家监察委员会调查组已抵达武汉 全面调查涉李文亮医生有关问题",
         "topics": [
-          1
+          2
         ],
         "url": "http://politics.people.com.cn/n1/2020/0208/c1001-31577306.html"
       }
     ],
     "status": "old",
     "topics": [
-      1
+      2
     ]
   },
   {
@@ -1177,7 +1239,7 @@
         "status": "old",
         "title": "16省份一省包一市支援湖北",
         "topics": [
-          3
+          4
         ],
         "url": "http://politics.people.com.cn/n1/2020/0208/c1001-31576826.html"
       },
@@ -1186,7 +1248,7 @@
         "status": "old",
         "title": "李文亮去世",
         "topics": [
-          1
+          2
         ],
         "url": "https://news.sina.com.cn/c/2020-02-07/doc-iimxxste9457333.shtml"
       },
@@ -1209,15 +1271,15 @@
         "status": "old",
         "title": "武汉人社局为李文亮作出工伤认定决定",
         "topics": [
-          1
+          2
         ],
         "url": "http://www.xinhuanet.com/politics/2020-02/07/c_1125544511.htm"
       }
     ],
     "status": "old",
     "topics": [
-      1,
-      3
+      2,
+      4
     ]
   },
   {
@@ -1376,7 +1438,7 @@
         "status": "old",
         "title": "黄色垃圾袋做防护服？ 武汉协和医院西院辟谣：并无此事",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/01/31/682236.html"
       },
@@ -1390,7 +1452,7 @@
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -1527,7 +1589,7 @@
         "status": "old",
         "title": "武汉医生年夜饭：方便面蛋黄派饼干",
         "topics": [
-          3
+          4
         ],
         "url": "https://www.pearvideo.com/video_1645792"
       },
@@ -1541,7 +1603,7 @@
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -1790,14 +1852,14 @@
         "status": "old",
         "title": "8名散布武汉肺炎谣言者被依法查处",
         "topics": [
-          1
+          2
         ],
         "url": "http://hb.people.com.cn/n2/2020/0101/c192237-33681157.html"
       }
     ],
     "status": "old",
     "topics": [
-      1
+      2
     ]
   },
   {
