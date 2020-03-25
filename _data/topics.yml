@@ -8,9 +8,13 @@
   value: 4
 - name: 输入病例
   value: 5
-- name: 方舱
+- name: 火雷神山
   value: 6
-- name: 习近平
+- name: 方舱
   value: 7
-- name: 钟南山
+- name: 习近平
   value: 8
+- name: 钟南山
+  value: 9
+- name: 不明原因的肺炎
+  value: 10

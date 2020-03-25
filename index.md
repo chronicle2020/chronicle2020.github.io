@@ -13,11 +13,11 @@ layout: home
 <div class="container pb-4">
   <div class="row">
     <div class="col">
-        只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary">
+        只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary" data-size="small" >
     </div>
     <div class="col old">
         <span class="inline">只看主题</span>
-        <div class="btn-group btn-group-toggle old pull-left" data-toggle="buttons" id="theme-checkbox">
+        <div class="btn-group-sm btn-group-toggle old pull-left" data-toggle="buttons" id="theme-checkbox">
             {% for topic in site.data.topics %}
             <label class="btn btn-secondary">
                 <input type="checkbox" name="theme-checkbox" autocomplete="off" class="theme-checkbox" value="{{ topic.value }}"> {{ topic.name }}
