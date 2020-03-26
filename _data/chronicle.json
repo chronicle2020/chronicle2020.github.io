@@ -1,17 +1,62 @@
 [
   {
-    "date": "3/24/2020",
+    "date": "3/26/2020",
     "news": [
+      {
+        "source": "人民网",
+        "status": "latest",
+        "title": "外交部、国家移民管理局:暂时停止持有效中国签证、居留许可的外国人入境",
+        "topics": [
+          1
+        ],
+        "url": "http://world.people.com.cn/n1/2020/0326/c1002-31649972.html"
+      },
       {
         "source": "新华网",
         "status": "latest",
+        "title": "民航局决定进一步调减国际客运航班运行数量",
+        "topics": [
+          1
+        ],
+        "url": "http://www.xinhuanet.com/politics/2020-03/26/c_1125773376.htm"
+      },
+      {
+        "source": "财新",
+        "status": "latest",
+        "title": "武汉开放骨灰领取 汉口殡仪馆逝者亲属排起长队",
+        "topics": [],
+        "url": "http://china.caixin.com/2020-03-26/101534558.html"
+      }
+    ],
+    "status": "latest",
+    "topics": [
+      1
+    ]
+  },
+  {
+    "date": "3/24/2020",
+    "news": [
+      {
+        "source": "澎湃",
+        "status": "latest",
+        "title": "网传广西援鄂晕倒护士去世，院方辟谣：仍在救治，专家将会诊",
+        "topics": [
+          2
+        ],
+        "url": "https://www.thepaper.cn/newsDetail_forward_6659753_1"
+      },
+      {
+        "source": "新华网",
+        "status": "old",
         "title": "湖北：武汉市4月8日起解除离汉离鄂通道管控措施 武汉市以外地区3月25日起解除离鄂通道管控",
         "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-03/24/c_1125760271.htm"
       }
     ],
     "status": "latest",
-    "topics": []
+    "topics": [
+      2
+    ]
   },
   {
     "date": "3/23/2020",
@@ -21,7 +66,7 @@
         "status": "old",
         "title": "“拥堵回归” 周一早高峰北京已严重拥堵",
         "topics": [
-          1
+          3
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/23/707518.html"
       },
@@ -44,8 +89,8 @@
     ],
     "status": "old",
     "topics": [
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -84,7 +129,7 @@
         "status": "old",
         "title": "全球疫情阴霾下，外贸“黄金月”被迫按下暂停键，企业该如何自救？",
         "topics": [
-          3
+          4
         ],
         "url": "https://mp.weixin.qq.com/s/d5_yUOfygyoSN7fiWimCew"
       },
@@ -93,7 +138,7 @@
         "status": "old",
         "title": "江西试行周末2.5天弹性作息提振文旅消费",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.chinanews.com/gn/2020/03-20/9131607.shtml"
       },
@@ -103,11 +148,21 @@
         "title": "武汉市中心医院伦理委员会成员刘励因感染新冠肺炎，不幸离世",
         "topics": [],
         "url": "https://www.thepaper.cn/newsDetail_forward_6603012"
+      },
+      {
+        "source": "环球网",
+        "status": "latest",
+        "title": "国家卫健委：4.2万援鄂医疗队员零感染",
+        "topics": [
+          2
+        ],
+        "url": "https://china.huanqiu.com/article/9CaKrnKq1jE"
       }
     ],
-    "status": "old",
+    "status": "latest",
     "topics": [
-      3
+      2,
+      4
     ]
   },
   {
@@ -118,7 +173,7 @@
         "status": "old",
         "title": "国家监委调查组负责人答记者问",
         "topics": [
-          4
+          5
         ],
         "url": "http://www.ccdi.gov.cn/toutiao/202003/t20200319_213887.html"
       },
@@ -127,7 +182,7 @@
         "status": "old",
         "title": "李文亮有关情况调查结果公布 调查组建议撤销训诫并追责",
         "topics": [
-          4
+          5
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706273.html"
       },
@@ -143,7 +198,7 @@
         "status": "old",
         "title": "不戴口罩在小区跑步 澳大利亚进京女子被限期离境",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706172.html"
       },
@@ -152,14 +207,14 @@
         "status": "old",
         "title": "北京建议留学生如非必须暂停回国",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/705897.html"
       }
     ],
     "status": "old",
     "topics": [
-      4,
+      1,
       5
     ]
   },
@@ -199,7 +254,7 @@
         "status": "old",
         "title": "7省11地市委书记、市长带头“下馆子逛超市” 经济专家：释放消费信号",
         "topics": [
-          3
+          4
         ],
         "url": "https://new.qq.com/omn/20200317/20200317A0B25D00.html"
       },
@@ -217,16 +272,16 @@
         "status": "old",
         "title": "澳籍华人女子抵京拒绝隔离 拜耳中国：辞退，立刻生效！",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/03/17/705232.html"
       }
     ],
     "status": "old",
     "topics": [
+      1,
       2,
-      3,
-      5
+      4
     ]
   },
   {
@@ -246,7 +301,7 @@
         "status": "old",
         "title": "应对境外疫情输入风险，北京小汤山定点医院今启用",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f5187e4b01e8b91509958.html"
       },
@@ -255,7 +310,7 @@
         "status": "old",
         "title": "一路瞒报来京，美国输入病例黎某被立案侦查",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f3c27e4b01e8b91509930.html"
       },
@@ -264,7 +319,7 @@
         "status": "old",
         "title": "疫情交叉点：国外累计确诊病例已超过中国",
         "topics": [
-          5
+          1
         ],
         "url": "https://www.guancha.cn/internation/2020_03_16_541870.shtml"
       },
@@ -273,16 +328,16 @@
         "status": "old",
         "title": "国家统计局：疫情对中国经济影响总体可控",
         "topics": [
-          3
+          4
         ],
         "url": "https://news.sina.com.cn/c/2020-03-16/doc-iimxxstf9398831.shtml"
       }
     ],
     "status": "old",
     "topics": [
+      1,
       2,
-      3,
-      5
+      4
     ]
   },
   {
@@ -327,7 +382,7 @@
         "status": "old",
         "title": "库克：关闭苹果大中华区以外的所有零售商店至3月27日",
         "topics": [
-          3
+          4
         ],
         "url": "http://www.bjnews.com.cn/finance/2020/03/14/703745.html"
       },
@@ -336,7 +391,7 @@
         "status": "old",
         "title": "境外输入首次多于本土新增病例",
         "topics": [
-          5
+          1
         ],
         "url": "https://news.sina.com.cn/c/2020-03-14/doc-iimxyqwa0354849.shtml"
       },
@@ -345,7 +400,7 @@
         "status": "old",
         "title": "北京市通报一例美国输入确诊病例情况",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.xinhuanet.com/2020-03/14/c_1125712909.htm"
       }
@@ -353,8 +408,8 @@
     "status": "old",
     "topics": [
       8,
-      3,
-      5
+      1,
+      4
     ]
   },
   {
@@ -393,14 +448,14 @@
         "status": "old",
         "title": "北京：非疫情严重国家入境进京人员也要观察14天",
         "topics": [
-          5
+          1
         ],
         "url": "http://media.workercn.cn/sites/media/grrb/2020_03/12/GR0105.htm?spm=C73544894212.P59511941341.0.0"
       }
     ],
     "status": "old",
     "topics": [
-      5
+      1
     ]
   },
   {
@@ -432,14 +487,14 @@
         "status": "old",
         "title": "郑州确诊首例境外输入病例：返郑后隐瞒境外行程，警方已立案",
         "topics": [
-          5
+          1
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6452848"
       }
     ],
     "status": "old",
     "topics": [
-      5
+      1
     ]
   },
   {
@@ -586,7 +641,7 @@
         "status": "old",
         "title": "李文亮等34人追授疫情防控先进个人称号",
         "topics": [
-          4
+          5
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/05/699362.html"
       },
@@ -595,7 +650,7 @@
         "status": "old",
         "title": "科学防止境外疫情输入",
         "topics": [
-          5
+          1
         ],
         "url": "http://www.xinhuanet.com/comments/2020-03/05/c_1125664247.htm"
       },
@@ -604,14 +659,14 @@
         "status": "old",
         "title": "集中驳回“李文亮”等37件恶意商标注册申请",
         "topics": [
-          4
+          5
         ],
         "url": "http://www.cnipa.gov.cn/zscqgz/1146478.htm"
       }
     ],
     "status": "old",
     "topics": [
-      4,
+      1,
       5
     ]
   },
@@ -623,14 +678,14 @@
         "status": "old",
         "title": "张文宏谈复工：如果不复工，人口死亡率恐将高于新冠肺炎",
         "topics": [
-          1
+          3
         ],
         "url": "https://xw.qq.com/cmsid/20200304V0GRPJ00"
       }
     ],
     "status": "old",
     "topics": [
-      1
+      3
     ]
   },
   {
@@ -715,7 +770,7 @@
         "status": "old",
         "title": "开出史上最高奖金 富士康复工率仅十分之一",
         "topics": [
-          1
+          3
         ],
         "url": "http://www.techweb.com.cn/internet/2020-02-27/2778994.shtml"
       },
@@ -738,8 +793,8 @@
     ],
     "status": "old",
     "topics": [
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -785,14 +840,14 @@
         "status": "old",
         "title": "国家发改委相关负责人指出 疫情对经济社会影响总体可控",
         "topics": [
-          3
+          4
         ],
         "url": "http://paper.people.com.cn/rmrbhwb/html/2020-02/25/content_1972859.htm"
       }
     ],
     "status": "old",
     "topics": [
-      3
+      4
     ]
   },
   {
@@ -1101,7 +1156,7 @@
         "status": "old",
         "title": "海南创新推出综合保险助力企业复工复产",
         "topics": [
-          1
+          3
         ],
         "url": "http://www.xinhuanet.com/2020-02/16/c_1125583163.htm"
       },
@@ -1115,7 +1170,7 @@
     ],
     "status": "old",
     "topics": [
-      1
+      3
     ]
   },
   {
@@ -1308,14 +1363,14 @@
         "status": "old",
         "title": "国家监察委员会调查组已抵达武汉 全面调查涉李文亮医生有关问题",
         "topics": [
-          4
+          5
         ],
         "url": "http://politics.people.com.cn/n1/2020/0208/c1001-31577306.html"
       }
     ],
     "status": "old",
     "topics": [
-      4
+      5
     ]
   },
   {
@@ -1335,7 +1390,7 @@
         "status": "old",
         "title": "李文亮去世",
         "topics": [
-          4
+          5
         ],
         "url": "https://news.sina.com.cn/c/2020-02-07/doc-iimxxste9457333.shtml"
       },
@@ -1358,7 +1413,7 @@
         "status": "old",
         "title": "武汉人社局为李文亮作出工伤认定决定",
         "topics": [
-          4
+          5
         ],
         "url": "http://www.xinhuanet.com/politics/2020-02/07/c_1125544511.htm"
       }
@@ -1366,7 +1421,7 @@
     "status": "old",
     "topics": [
       2,
-      4
+      5
     ]
   },
   {
@@ -1958,14 +2013,14 @@
         "status": "old",
         "title": "8名散布武汉肺炎谣言者被依法查处",
         "topics": [
-          4
+          5
         ],
         "url": "http://hb.people.com.cn/n2/2020/0101/c192237-33681157.html"
       }
     ],
     "status": "old",
     "topics": [
-      4
+      5
     ]
   },
   {
