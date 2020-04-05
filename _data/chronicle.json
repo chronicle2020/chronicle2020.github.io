@@ -4,13 +4,13 @@
     "news": [
       {
         "source": "新华网",
-        "status": "latest",
+        "status": "old",
         "title": "国务院公告：2020年4月4日举行全国性哀悼活动",
         "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-04/03/c_1125807657.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -43,9 +43,16 @@
         "title": "关于新型冠状病毒无症状感染者的防控工作答问",
         "topics": [],
         "url": "http://www.nhc.gov.cn/jkj/s3578/202003/718c79c96f3e46409dd49303d41a00ef.shtml"
+      },
+      {
+        "source": "中国邮政集团",
+        "status": "latest",
+        "title": "《众志成城 抗击疫情》邮票发布",
+        "topics": [],
+        "url": "http://www.chinapost.com.cn/xhtml1/stamp/2004/267-1.htm"
       }
     ],
-    "status": "old",
+    "status": "latest",
     "topics": []
   },
   {
