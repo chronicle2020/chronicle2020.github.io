@@ -2130,13 +2130,13 @@
       },
       {
         "source": "中国邮政集团",
-        "status": "latest",
+        "status": "old",
         "title": "《众志成城 抗击疫情》邮票发布",
         "topics": [],
         "url": "http://www.chinapost.com.cn/xhtml1/stamp/2004/267-1.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2151,6 +2151,41 @@
       }
     ],
     "status": "old",
+    "topics": []
+  },
+  {
+    "date": "4/6/2020",
+    "news": [
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "中国发布新冠肺炎疫情信息、推进疫情防控国际合作纪事",
+        "topics": [],
+        "url": "http://www.xinhuanet.com/politics/2020-04/06/c_1125819214.htm"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "4/8/2020",
+    "news": [
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "4月8日零时武汉离汉通道管控正式解除",
+        "topics": [],
+        "url": "http://www.xinhuanet.com/2020-04/08/c_1125824825.htm"
+      },
+      {
+        "source": "央视新闻",
+        "status": "latest",
+        "title": "黑龙江绥芬河市所有小区自4月8日6时起实行封闭管理",
+        "topics": [],
+        "url": "http://m.news.cctv.com/2020/04/08/ARTIpWSJH66vmCpNaxDeC6RJ200408.shtml"
+      }
+    ],
+    "status": "latest",
     "topics": []
   }
 ]
