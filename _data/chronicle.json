@@ -229,9 +229,7 @@
         "source": "人民网",
         "status": "old",
         "title": "习近平对新型冠状病毒感染的肺炎疫情作出重要指示",
-        "topics": [
-          3
-        ],
+        "topics": [],
         "url": "http://politics.people.com.cn/n1/2020/0120/c1024-31557456.html"
       },
       {
@@ -239,15 +237,14 @@
         "status": "old",
         "title": "钟南山：目前已肯定新型冠状病毒肺炎人传人",
         "topics": [
-          4
+          3
         ],
         "url": "http://www.bjnews.com.cn/news/2020/01/20/677135.html"
       }
     ],
     "status": "old",
     "topics": [
-      3,
-      4
+      3
     ]
   },
   {
@@ -314,7 +311,7 @@
         "status": "old",
         "title": "武汉版“小汤山”医院突击开建 ：“我们争取6天完工”",
         "topics": [
-          5
+          4
         ],
         "url": "https://www.yicai.com/news/100480476.html"
       },
@@ -323,7 +320,7 @@
         "status": "old",
         "title": "武汉医生年夜饭：方便面蛋黄派饼干",
         "topics": [
-          6
+          5
         ],
         "url": "https://www.pearvideo.com/video_1645792"
       },
@@ -337,8 +334,8 @@
     ],
     "status": "old",
     "topics": [
-      5,
-      6
+      4,
+      5
     ]
   },
   {
@@ -475,7 +472,7 @@
         "status": "old",
         "title": "黄色垃圾袋做防护服？ 武汉协和医院西院辟谣：并无此事",
         "topics": [
-          6
+          5
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/01/31/682236.html"
       },
@@ -489,7 +486,7 @@
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -535,7 +532,7 @@
         "status": "old",
         "title": "“火神”战瘟神——火神山医院10天落成记",
         "topics": [
-          5
+          4
         ],
         "url": "http://www.xinhuanet.com/politics/2020-02/03/c_1125523730.htm"
       },
@@ -549,7 +546,7 @@
     ],
     "status": "old",
     "topics": [
-      5
+      4
     ]
   },
   {
@@ -574,14 +571,14 @@
         "status": "old",
         "title": "武汉连夜开建“方舱医院”收治轻症患者",
         "topics": [
-          7
+          6
         ],
         "url": "https://baijiahao.baidu.com/s?id=1657553914208219353"
       }
     ],
     "status": "old",
     "topics": [
-      7
+      6
     ]
   },
   {
@@ -592,7 +589,7 @@
         "status": "old",
         "title": "武汉新建11座方舱医院，可提供床位万余张",
         "topics": [
-          7
+          6
         ],
         "url": "http://www.bjnews.com.cn/news/2020/02/04/684475.html"
       },
@@ -613,7 +610,7 @@
     ],
     "status": "old",
     "topics": [
-      7
+      6
     ]
   },
   {
@@ -645,7 +642,7 @@
         "status": "old",
         "title": "16省份一省包一市支援湖北",
         "topics": [
-          6
+          5
         ],
         "url": "http://politics.people.com.cn/n1/2020/0208/c1001-31576826.html"
       },
@@ -685,7 +682,7 @@
     "status": "old",
     "topics": [
       2,
-      6
+      5
     ]
   },
   {
@@ -756,14 +753,14 @@
         "status": "old",
         "title": "我们在方舱医院跳广场舞",
         "topics": [
-          7
+          6
         ],
         "url": "http://www.xinhuanet.com/2020-02/11/c_1125557194.htm"
       }
     ],
     "status": "old",
     "topics": [
-      7
+      6
     ]
   },
   {
@@ -858,7 +855,7 @@
         "status": "old",
         "title": "火神山医院漏雨还被风吹走了？辟谣：运作正常",
         "topics": [
-          5
+          4
         ],
         "url": "http://www.bjnews.com.cn/wevideo/2020/02/15/690117.html"
       },
@@ -866,9 +863,7 @@
         "source": "求是",
         "status": "old",
         "title": "习近平：在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话",
-        "topics": [
-          3
-        ],
+        "topics": [],
         "url": "http://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm"
       },
       {
@@ -876,16 +871,15 @@
         "status": "old",
         "title": "剪去秀发，背上行囊，走！甘肃省妇幼15名医护人员出征驰援湖北 ",
         "topics": [
-          6
+          5
         ],
         "url": "https://www.sohu.com/a/373240111_100237836"
       }
     ],
     "status": "old",
     "topics": [
-      3,
-      5,
-      6
+      4,
+      5
     ]
   },
   {
@@ -916,9 +910,7 @@
         "source": "新华网",
         "status": "old",
         "title": "海南创新推出综合保险助力企业复工复产",
-        "topics": [
-          8
-        ],
+        "topics": [],
         "url": "http://www.xinhuanet.com/2020-02/16/c_1125583163.htm"
       },
       {
@@ -930,9 +922,7 @@
       }
     ],
     "status": "old",
-    "topics": [
-      8
-    ]
+    "topics": []
   },
   {
     "date": "2/17/2020",
@@ -963,7 +953,7 @@
         "status": "old",
         "title": "武汉向确诊医务人员发慰问金：感染新冠肺炎去世医护发5000元",
         "topics": [
-          6
+          5
         ],
         "url": "http://www.chinanews.com/sh/2020/02-17/9094413.shtml"
       },
@@ -972,7 +962,7 @@
         "status": "old",
         "title": "中国疾控中心报告：3019名医务人员感染新冠病毒，确诊1716例，死亡5例",
         "topics": [
-          6
+          5
         ],
         "url": "http://www.bjnews.com.cn/news/2020/02/17/690844.html"
       },
@@ -986,7 +976,7 @@
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -997,14 +987,14 @@
         "status": "old",
         "title": "武昌医院院长刘智明患新冠肺炎去世 为首位殉职院长",
         "topics": [
-          6
+          5
         ],
         "url": "http://china.caixin.com/2020-02-18/101517035.html"
       }
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -1036,7 +1026,7 @@
         "status": "old",
         "title": "现要求你立即停止工作，强制休息，这是命令！",
         "topics": [
-          6
+          5
         ],
         "url": "http://m.news.cctv.com/2020/02/19/ARTIRr0vK7gWiwgtENPfGqs5200219.shtml"
       },
@@ -1052,15 +1042,15 @@
         "status": "old",
         "title": "火神山医院工人不要工钱坚决不领工资?承建方回应",
         "topics": [
-          5
+          4
         ],
         "url": "https://news.163.com/20/0219/04/F5NJNBE70001899O.html"
       }
     ],
     "status": "old",
     "topics": [
-      5,
-      6
+      4,
+      5
     ]
   },
   {
@@ -1085,7 +1075,7 @@
         "status": "old",
         "title": "援助湖北的四川医务人员，火锅免费吃一年！400多家店等你凯旋",
         "topics": [
-          6
+          5
         ],
         "url": "https://cbgc.scol.com.cn/news/240126"
       },
@@ -1099,7 +1089,7 @@
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -1138,7 +1128,7 @@
         "status": "old",
         "title": "武汉启用游轮酒店 为医疗队提供住宿",
         "topics": [
-          6
+          5
         ],
         "url": "http://m.news.cctv.com/2020/02/22/ARTInEERXBhr20jgeVl42Xtn200222.shtml"
       },
@@ -1159,7 +1149,7 @@
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -1226,14 +1216,14 @@
         "status": "old",
         "title": "国家发改委相关负责人指出 疫情对经济社会影响总体可控",
         "topics": [
-          9
+          7
         ],
         "url": "http://paper.people.com.cn/rmrbhwb/html/2020-02/25/content_1972859.htm"
       }
     ],
     "status": "old",
     "topics": [
-      9
+      7
     ]
   },
   {
@@ -1271,9 +1261,7 @@
         "source": "TechWeb",
         "status": "old",
         "title": "开出史上最高奖金 富士康复工率仅十分之一",
-        "topics": [
-          8
-        ],
+        "topics": [],
         "url": "http://www.techweb.com.cn/internet/2020-02-27/2778994.shtml"
       },
       {
@@ -1281,7 +1269,7 @@
         "status": "old",
         "title": "《柳叶刀-全球健康》发布撤稿声明，撤回此前求助通讯",
         "topics": [
-          6
+          5
         ],
         "url": "https://www.jiemian.com/article/4036978.html"
       },
@@ -1295,8 +1283,7 @@
     ],
     "status": "old",
     "topics": [
-      8,
-      6
+      5
     ]
   },
   {
@@ -1335,7 +1322,7 @@
         "status": "old",
         "title": "首家方舱医院休舱！武汉这三个地点全部实现“床等人”",
         "topics": [
-          7
+          6
         ],
         "url": "http://www.xinhuanet.com/politics/2020-03/02/c_1125650482.htm"
       },
@@ -1356,7 +1343,7 @@
     ],
     "status": "old",
     "topics": [
-      7
+      6
     ]
   },
   {
@@ -1380,16 +1367,12 @@
         "source": "腾讯",
         "status": "old",
         "title": "张文宏谈复工：如果不复工，人口死亡率恐将高于新冠肺炎",
-        "topics": [
-          8
-        ],
+        "topics": [],
         "url": "https://xw.qq.com/cmsid/20200304V0GRPJ00"
       }
     ],
     "status": "old",
-    "topics": [
-      8
-    ]
+    "topics": []
   },
   {
     "date": "3/5/2020",
@@ -1422,7 +1405,7 @@
         "status": "old",
         "title": "科学防止境外疫情输入",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.xinhuanet.com/comments/2020-03/05/c_1125664247.htm"
       },
@@ -1438,8 +1421,8 @@
     ],
     "status": "old",
     "topics": [
-      2,
-      10
+      8,
+      2
     ]
   },
   {
@@ -1492,14 +1475,14 @@
         "status": "old",
         "title": "钟南山团队研究：若早5天干预，疫情减轻过半",
         "topics": [
-          4
+          3
         ],
         "url": "http://www.caixin.com/2020-03-08/101525439.html"
       }
     ],
     "status": "old",
     "topics": [
-      4
+      3
     ]
   },
   {
@@ -1517,14 +1500,14 @@
         "status": "old",
         "title": "钟南山：全球疫情的发展估计将至少延续至6月份",
         "topics": [
-          4
+          3
         ],
         "url": "https://mp.weixin.qq.com/s/uZ0CcvNGApIFN3JfmLrglw"
       }
     ],
     "status": "old",
     "topics": [
-      4
+      3
     ]
   },
   {
@@ -1535,7 +1518,7 @@
         "status": "old",
         "title": "武汉最后一座方舱医院休舱",
         "topics": [
-          7
+          6
         ],
         "url": "http://www.hb.xinhuanet.com/2020-03/10/c_1125692813.htm"
       },
@@ -1544,7 +1527,7 @@
         "status": "old",
         "title": "隔离14天还是立刻回家，武汉有方舱医院志愿者陷入两难境地",
         "topics": [
-          7
+          6
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6439832"
       },
@@ -1552,16 +1535,13 @@
         "source": "新华网",
         "status": "old",
         "title": "习近平抵武汉考察新冠肺炎疫情防控工作",
-        "topics": [
-          3
-        ],
+        "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-03/10/c_1125689450.htm"
       }
     ],
     "status": "old",
     "topics": [
-      3,
-      7
+      6
     ]
   },
   {
@@ -1593,14 +1573,14 @@
         "status": "old",
         "title": "郑州确诊首例境外输入病例：返郑后隐瞒境外行程，警方已立案",
         "topics": [
-          10
+          8
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6452848"
       }
     ],
     "status": "old",
     "topics": [
-      10
+      8
     ]
   },
   {
@@ -1618,14 +1598,14 @@
         "status": "old",
         "title": "北京：非疫情严重国家入境进京人员也要观察14天",
         "topics": [
-          10
+          8
         ],
         "url": "http://media.workercn.cn/sites/media/grrb/2020_03/12/GR0105.htm?spm=C73544894212.P59511941341.0.0"
       }
     ],
     "status": "old",
     "topics": [
-      10
+      8
     ]
   },
   {
@@ -1656,9 +1636,7 @@
         "source": "人民网",
         "status": "old",
         "title": "习近平就新冠肺炎疫情向欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩致慰问电",
-        "topics": [
-          3
-        ],
+        "topics": [],
         "url": "http://politics.people.com.cn/n1/2020/0314/c1024-31632048.html"
       },
       {
@@ -1673,7 +1651,7 @@
         "status": "old",
         "title": "库克：关闭苹果大中华区以外的所有零售商店至3月27日",
         "topics": [
-          9
+          7
         ],
         "url": "http://www.bjnews.com.cn/finance/2020/03/14/703745.html"
       },
@@ -1682,7 +1660,7 @@
         "status": "old",
         "title": "境外输入首次多于本土新增病例",
         "topics": [
-          10
+          8
         ],
         "url": "https://news.sina.com.cn/c/2020-03-14/doc-iimxyqwa0354849.shtml"
       },
@@ -1691,16 +1669,15 @@
         "status": "old",
         "title": "北京市通报一例美国输入确诊病例情况",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.xinhuanet.com/2020-03/14/c_1125712909.htm"
       }
     ],
     "status": "old",
     "topics": [
-      9,
-      10,
-      3
+      8,
+      7
     ]
   },
   {
@@ -1711,14 +1688,14 @@
         "status": "old",
         "title": "方舱医院真神奇",
         "topics": [
-          7
+          6
         ],
         "url": "https://www.bilibili.com/video/av96294586"
       }
     ],
     "status": "old",
     "topics": [
-      7
+      6
     ]
   },
   {
@@ -1729,7 +1706,7 @@
         "status": "old",
         "title": "中央应对新冠肺炎疫情工作领导小组：制定方案组织援鄂医务人员分批撤离",
         "topics": [
-          6
+          5
         ],
         "url": "http://m.news.cctv.com/2020/03/16/ARTIx9ujYVBBgCM7CUW9aCok200316.shtml"
       },
@@ -1738,7 +1715,7 @@
         "status": "old",
         "title": "应对境外疫情输入风险，北京小汤山定点医院今启用",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f5187e4b01e8b91509958.html"
       },
@@ -1747,7 +1724,7 @@
         "status": "old",
         "title": "一路瞒报来京，美国输入病例黎某被立案侦查",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f3c27e4b01e8b91509930.html"
       },
@@ -1756,7 +1733,7 @@
         "status": "old",
         "title": "疫情交叉点：国外累计确诊病例已超过中国",
         "topics": [
-          10
+          8
         ],
         "url": "https://www.guancha.cn/internation/2020_03_16_541870.shtml"
       },
@@ -1765,16 +1742,16 @@
         "status": "old",
         "title": "国家统计局：疫情对中国经济影响总体可控",
         "topics": [
-          9
+          7
         ],
         "url": "https://news.sina.com.cn/c/2020-03-16/doc-iimxxstf9398831.shtml"
       }
     ],
     "status": "old",
     "topics": [
-      9,
-      10,
-      6
+      8,
+      5,
+      7
     ]
   },
   {
@@ -1785,7 +1762,7 @@
         "status": "old",
         "title": "7省11地市委书记、市长带头“下馆子逛超市” 经济专家：释放消费信号",
         "topics": [
-          9
+          7
         ],
         "url": "https://new.qq.com/omn/20200317/20200317A0B25D00.html"
       },
@@ -1794,7 +1771,7 @@
         "status": "old",
         "title": "北京600名医护人员支援小汤山",
         "topics": [
-          6
+          5
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/17/705079.html"
       },
@@ -1803,16 +1780,16 @@
         "status": "old",
         "title": "澳籍华人女子抵京拒绝隔离 拜耳中国：辞退，立刻生效！",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/03/17/705232.html"
       }
     ],
     "status": "old",
     "topics": [
-      9,
-      10,
-      6
+      8,
+      5,
+      7
     ]
   },
   {
@@ -1823,7 +1800,7 @@
         "status": "old",
         "title": "火神山工人想回家：至少9人确诊，生计暂难为继",
         "topics": [
-          5
+          4
         ],
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653356465&idx=3&sn=97c4602dbfb96777201fabd7d1ef8c3e"
       },
@@ -1832,15 +1809,15 @@
         "status": "old",
         "title": "武汉交警以最高礼遇护航首批援汉医疗队返程",
         "topics": [
-          6
+          5
         ],
         "url": "http://legal.people.com.cn/n1/2020/0318/c42510-31637353.html"
       }
     ],
     "status": "old",
     "topics": [
-      5,
-      6
+      4,
+      5
     ]
   },
   {
@@ -1876,7 +1853,7 @@
         "status": "old",
         "title": "不戴口罩在小区跑步 澳大利亚进京女子被限期离境",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706172.html"
       },
@@ -1885,15 +1862,15 @@
         "status": "old",
         "title": "北京建议留学生如非必须暂停回国",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/705897.html"
       }
     ],
     "status": "old",
     "topics": [
-      2,
-      10
+      8,
+      2
     ]
   },
   {
@@ -1904,7 +1881,7 @@
         "status": "old",
         "title": "全球疫情阴霾下，外贸“黄金月”被迫按下暂停键，企业该如何自救？",
         "topics": [
-          9
+          7
         ],
         "url": "https://mp.weixin.qq.com/s/d5_yUOfygyoSN7fiWimCew"
       },
@@ -1913,7 +1890,7 @@
         "status": "old",
         "title": "江西试行周末2.5天弹性作息提振文旅消费",
         "topics": [
-          9
+          7
         ],
         "url": "http://www.chinanews.com/gn/2020/03-20/9131607.shtml"
       },
@@ -1929,15 +1906,15 @@
         "status": "old",
         "title": "国家卫健委：4.2万援鄂医疗队员零感染",
         "topics": [
-          6
+          5
         ],
         "url": "https://china.huanqiu.com/article/9CaKrnKq1jE"
       }
     ],
     "status": "old",
     "topics": [
-      9,
-      6
+      5,
+      7
     ]
   },
   {
@@ -1975,9 +1952,7 @@
         "source": "新京报",
         "status": "old",
         "title": "“拥堵回归” 周一早高峰北京已严重拥堵",
-        "topics": [
-          8
-        ],
+        "topics": [],
         "url": "http://www.bjnews.com.cn/news/2020/03/23/707518.html"
       },
       {
@@ -1992,7 +1967,7 @@
         "status": "old",
         "title": "每天仍检出多例无症状感染者 援鄂疾控工作队暂缓撤离",
         "topics": [
-          6
+          5
         ],
         "url": "http://www.caixin.com/2020-03-23/101532573.html"
       },
@@ -2006,8 +1981,7 @@
     ],
     "status": "old",
     "topics": [
-      8,
-      6
+      5
     ]
   },
   {
@@ -2018,7 +1992,7 @@
         "status": "old",
         "title": "网传广西援鄂晕倒护士去世，院方辟谣：仍在救治，专家将会诊",
         "topics": [
-          6
+          5
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6659753_1"
       },
@@ -2032,7 +2006,7 @@
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -2042,9 +2016,7 @@
         "source": "人民网",
         "status": "old",
         "title": "习近平在二十国集团领导人应对新冠肺炎特别峰会上发表重要讲话",
-        "topics": [
-          3
-        ],
+        "topics": [],
         "url": "http://politics.people.com.cn/n1/2020/0326/c1024-31649937.html"
       },
       {
@@ -2052,7 +2024,7 @@
         "status": "old",
         "title": "外交部、国家移民管理局:暂时停止持有效中国签证、居留许可的外国人入境",
         "topics": [
-          10
+          8
         ],
         "url": "http://world.people.com.cn/n1/2020/0326/c1002-31649972.html"
       },
@@ -2061,7 +2033,7 @@
         "status": "old",
         "title": "民航局决定进一步调减国际客运航班运行数量",
         "topics": [
-          10
+          8
         ],
         "url": "http://www.xinhuanet.com/politics/2020-03/26/c_1125773376.htm"
       },
@@ -2075,8 +2047,7 @@
     ],
     "status": "old",
     "topics": [
-      10,
-      3
+      8
     ]
   },
   {
@@ -2087,14 +2058,14 @@
         "status": "old",
         "title": "广西医疗队护士梁小霞专机转运返桂继续治疗",
         "topics": [
-          6
+          5
         ],
         "url": "https://epaper.hubeidaily.net/pc/content/202003/31/content_24476.html"
       }
     ],
     "status": "old",
     "topics": [
-      6
+      5
     ]
   },
   {
@@ -2158,13 +2129,13 @@
     "news": [
       {
         "source": "新华网",
-        "status": "latest",
+        "status": "old",
         "title": "中国发布新冠肺炎疫情信息、推进疫情防控国际合作纪事",
         "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-04/06/c_1125819214.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2172,20 +2143,45 @@
     "news": [
       {
         "source": "新华网",
-        "status": "latest",
+        "status": "old",
         "title": "4月8日零时武汉离汉通道管控正式解除",
         "topics": [],
         "url": "http://www.xinhuanet.com/2020-04/08/c_1125824825.htm"
       },
       {
         "source": "央视新闻",
-        "status": "latest",
+        "status": "old",
         "title": "黑龙江绥芬河市所有小区自4月8日6时起实行封闭管理",
         "topics": [],
         "url": "http://m.news.cctv.com/2020/04/08/ARTIpWSJH66vmCpNaxDeC6RJ200408.shtml"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
+  },
+  {
+    "date": "4/9/2020",
+    "news": [
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "黑龙江省绥芬河市加紧建设方舱医院 预计11日启用",
+        "topics": [
+          6
+        ],
+        "url": "http://www.xinhuanet.com/2020-04/09/c_1125833366.htm"
+      },
+      {
+        "source": "央广网",
+        "status": "latest",
+        "title": "国家卫健委：我国部分邻国确诊病例数增长较快 需严格入境人员检测、隔离",
+        "topics": [],
+        "url": "http://news.cnr.cn/native/gd/20200409/t20200409_525048060.shtml"
+      }
+    ],
+    "status": "latest",
+    "topics": [
+      6
+    ]
   }
 ]
