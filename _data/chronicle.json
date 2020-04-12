@@ -1145,11 +1145,21 @@
         "title": "湖北神农架新增1例确诊病例 潜伏期长达27天",
         "topics": [],
         "url": "https://news.163.com/20/0222/13/F608NLEN0001899O.html"
+      },
+      {
+        "source": "中国新闻网",
+        "status": "latest",
+        "title": "独家专访：作家方方和她的“武汉日记”",
+        "topics": [
+          7
+        ],
+        "url": "http://www.chinanews.com/cul/2020/02-22/9100825.shtml"
       }
     ],
-    "status": "old",
+    "status": "latest",
     "topics": [
-      5
+      5,
+      7
     ]
   },
   {
@@ -1216,14 +1226,14 @@
         "status": "old",
         "title": "国家发改委相关负责人指出 疫情对经济社会影响总体可控",
         "topics": [
-          7
+          8
         ],
         "url": "http://paper.people.com.cn/rmrbhwb/html/2020-02/25/content_1972859.htm"
       }
     ],
     "status": "old",
     "topics": [
-      7
+      8
     ]
   },
   {
@@ -1405,7 +1415,7 @@
         "status": "old",
         "title": "科学防止境外疫情输入",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.xinhuanet.com/comments/2020-03/05/c_1125664247.htm"
       },
@@ -1421,7 +1431,7 @@
     ],
     "status": "old",
     "topics": [
-      8,
+      9,
       2
     ]
   },
@@ -1573,14 +1583,14 @@
         "status": "old",
         "title": "郑州确诊首例境外输入病例：返郑后隐瞒境外行程，警方已立案",
         "topics": [
-          8
+          9
         ],
         "url": "https://www.thepaper.cn/newsDetail_forward_6452848"
       }
     ],
     "status": "old",
     "topics": [
-      8
+      9
     ]
   },
   {
@@ -1598,14 +1608,14 @@
         "status": "old",
         "title": "北京：非疫情严重国家入境进京人员也要观察14天",
         "topics": [
-          8
+          9
         ],
         "url": "http://media.workercn.cn/sites/media/grrb/2020_03/12/GR0105.htm?spm=C73544894212.P59511941341.0.0"
       }
     ],
     "status": "old",
     "topics": [
-      8
+      9
     ]
   },
   {
@@ -1651,7 +1661,7 @@
         "status": "old",
         "title": "库克：关闭苹果大中华区以外的所有零售商店至3月27日",
         "topics": [
-          7
+          8
         ],
         "url": "http://www.bjnews.com.cn/finance/2020/03/14/703745.html"
       },
@@ -1660,7 +1670,7 @@
         "status": "old",
         "title": "境外输入首次多于本土新增病例",
         "topics": [
-          8
+          9
         ],
         "url": "https://news.sina.com.cn/c/2020-03-14/doc-iimxyqwa0354849.shtml"
       },
@@ -1669,7 +1679,7 @@
         "status": "old",
         "title": "北京市通报一例美国输入确诊病例情况",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.xinhuanet.com/2020-03/14/c_1125712909.htm"
       }
@@ -1677,7 +1687,7 @@
     "status": "old",
     "topics": [
       8,
-      7
+      9
     ]
   },
   {
@@ -1715,7 +1725,7 @@
         "status": "old",
         "title": "应对境外疫情输入风险，北京小汤山定点医院今启用",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f5187e4b01e8b91509958.html"
       },
@@ -1724,7 +1734,7 @@
         "status": "old",
         "title": "一路瞒报来京，美国输入病例黎某被立案侦查",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.bjd.com.cn/a/202003/16/WS5e6f3c27e4b01e8b91509930.html"
       },
@@ -1733,7 +1743,7 @@
         "status": "old",
         "title": "疫情交叉点：国外累计确诊病例已超过中国",
         "topics": [
-          8
+          9
         ],
         "url": "https://www.guancha.cn/internation/2020_03_16_541870.shtml"
       },
@@ -1742,7 +1752,7 @@
         "status": "old",
         "title": "国家统计局：疫情对中国经济影响总体可控",
         "topics": [
-          7
+          8
         ],
         "url": "https://news.sina.com.cn/c/2020-03-16/doc-iimxxstf9398831.shtml"
       }
@@ -1750,8 +1760,8 @@
     "status": "old",
     "topics": [
       8,
-      5,
-      7
+      9,
+      5
     ]
   },
   {
@@ -1762,7 +1772,7 @@
         "status": "old",
         "title": "7省11地市委书记、市长带头“下馆子逛超市” 经济专家：释放消费信号",
         "topics": [
-          7
+          8
         ],
         "url": "https://new.qq.com/omn/20200317/20200317A0B25D00.html"
       },
@@ -1780,7 +1790,7 @@
         "status": "old",
         "title": "澳籍华人女子抵京拒绝隔离 拜耳中国：辞退，立刻生效！",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.bjnews.com.cn/feature/2020/03/17/705232.html"
       }
@@ -1788,8 +1798,8 @@
     "status": "old",
     "topics": [
       8,
-      5,
-      7
+      9,
+      5
     ]
   },
   {
@@ -1853,7 +1863,7 @@
         "status": "old",
         "title": "不戴口罩在小区跑步 澳大利亚进京女子被限期离境",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/706172.html"
       },
@@ -1862,14 +1872,14 @@
         "status": "old",
         "title": "北京建议留学生如非必须暂停回国",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.bjnews.com.cn/news/2020/03/19/705897.html"
       }
     ],
     "status": "old",
     "topics": [
-      8,
+      9,
       2
     ]
   },
@@ -1881,7 +1891,7 @@
         "status": "old",
         "title": "全球疫情阴霾下，外贸“黄金月”被迫按下暂停键，企业该如何自救？",
         "topics": [
-          7
+          8
         ],
         "url": "https://mp.weixin.qq.com/s/d5_yUOfygyoSN7fiWimCew"
       },
@@ -1890,7 +1900,7 @@
         "status": "old",
         "title": "江西试行周末2.5天弹性作息提振文旅消费",
         "topics": [
-          7
+          8
         ],
         "url": "http://www.chinanews.com/gn/2020/03-20/9131607.shtml"
       },
@@ -1913,8 +1923,8 @@
     ],
     "status": "old",
     "topics": [
-      5,
-      7
+      8,
+      5
     ]
   },
   {
@@ -2024,7 +2034,7 @@
         "status": "old",
         "title": "外交部、国家移民管理局:暂时停止持有效中国签证、居留许可的外国人入境",
         "topics": [
-          8
+          9
         ],
         "url": "http://world.people.com.cn/n1/2020/0326/c1002-31649972.html"
       },
@@ -2033,7 +2043,7 @@
         "status": "old",
         "title": "民航局决定进一步调减国际客运航班运行数量",
         "topics": [
-          8
+          9
         ],
         "url": "http://www.xinhuanet.com/politics/2020-03/26/c_1125773376.htm"
       },
@@ -2047,7 +2057,7 @@
     ],
     "status": "old",
     "topics": [
-      8
+      9
     ]
   },
   {
@@ -2154,34 +2164,56 @@
         "title": "黑龙江绥芬河市所有小区自4月8日6时起实行封闭管理",
         "topics": [],
         "url": "http://m.news.cctv.com/2020/04/08/ARTIpWSJH66vmCpNaxDeC6RJ200408.shtml"
+      },
+      {
+        "source": "知乎专栏",
+        "status": "latest",
+        "title": "在多国叫嚣“向中国索赔”之际，《方方日记》英文版竟开卖了",
+        "topics": [
+          7
+        ],
+        "url": "https://zhuanlan.zhihu.com/p/127200873"
       }
     ],
-    "status": "old",
-    "topics": []
+    "status": "latest",
+    "topics": [
+      7
+    ]
   },
   {
     "date": "4/9/2020",
     "news": [
       {
         "source": "新华网",
-        "status": "latest",
+        "status": "old",
         "title": "黑龙江省绥芬河市加紧建设方舱医院 预计11日启用",
         "topics": [
           6
         ],
         "url": "http://www.xinhuanet.com/2020-04/09/c_1125833366.htm"
-      },
+      }
+    ],
+    "status": "old",
+    "topics": [
+      6
+    ]
+  },
+  {
+    "date": "4/12/2020",
+    "news": [
       {
-        "source": "央广网",
+        "source": "京报网",
         "status": "latest",
-        "title": "国家卫健委：我国部分邻国确诊病例数增长较快 需严格入境人员检测、隔离",
-        "topics": [],
-        "url": "http://news.cnr.cn/native/gd/20200409/t20200409_525048060.shtml"
+        "title": "上海、黑龙江新增72例俄罗斯输入病例，51人乘同一航班",
+        "topics": [
+          9
+        ],
+        "url": "http://www.bjd.com.cn/a/202004/12/WS5e9263eee4b0df866aa9501b.html"
       }
     ],
     "status": "latest",
     "topics": [
-      6
+      9
     ]
   }
 ]

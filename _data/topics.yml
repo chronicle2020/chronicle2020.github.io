@@ -10,7 +10,9 @@
   value: 5
 - name: 方舱
   value: 6
-- name: 经济
+- name: 方方
   value: 7
-- name: 输入病例
+- name: 经济
   value: 8
+- name: 输入病例
+  value: 9
