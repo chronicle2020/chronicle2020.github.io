@@ -2167,7 +2167,7 @@
       },
       {
         "source": "知乎专栏",
-        "status": "latest",
+        "status": "old",
         "title": "在多国叫嚣“向中国索赔”之际，《方方日记》英文版竟开卖了",
         "topics": [
           7
@@ -2175,7 +2175,7 @@
         "url": "https://zhuanlan.zhihu.com/p/127200873"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": [
       7
     ]
@@ -2203,7 +2203,7 @@
     "news": [
       {
         "source": "京报网",
-        "status": "latest",
+        "status": "old",
         "title": "上海、黑龙江新增72例俄罗斯输入病例，51人乘同一航班",
         "topics": [
           9
@@ -2211,9 +2211,23 @@
         "url": "http://www.bjd.com.cn/a/202004/12/WS5e9263eee4b0df866aa9501b.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": [
       9
     ]
+  },
+  {
+    "date": "4/14/2020",
+    "news": [
+      {
+        "source": "新京报",
+        "status": "latest",
+        "title": "连花清瘟获批用于新冠肺炎 以岭药业起飞市值7天增百亿",
+        "topics": [],
+        "url": "http://www.bjnews.com.cn/finance/2020/04/14/716918.html"
+      }
+    ],
+    "status": "latest",
+    "topics": []
   }
 ]
