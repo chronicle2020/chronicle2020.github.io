@@ -167,20 +167,6 @@
     "topics": []
   },
   {
-    "date": "1/13/2020",
-    "news": [
-      {
-        "source": "世界卫生组织",
-        "status": "old",
-        "title": "世卫组织关于在泰国发现新型冠状病毒病例的声明",
-        "topics": [],
-        "url": "https://www.who.int/zh/news-room/detail/13-01-2020-who-statement-on-novel-coronavirus-in-thailand"
-      }
-    ],
-    "status": "old",
-    "topics": []
-  },
-  {
     "date": "1/15/2020",
     "news": [
       {
@@ -375,13 +361,6 @@
         "title": "武汉之外湖北多地医用物资告急：口罩最缺，根本买不到",
         "topics": [],
         "url": "https://finance.ifeng.com/c/7tZKjfarwYd"
-      },
-      {
-        "source": "中国新闻网",
-        "status": "old",
-        "title": "日本民间捐助的100万只防疫口罩抵蓉 紧急运往武汉",
-        "topics": [],
-        "url": "http://www.chinanews.com/gj/2020/01-26/9069933.shtml"
       }
     ],
     "status": "old",
@@ -663,13 +642,6 @@
         "url": "https://www.thepaper.cn/newsDetail_forward_5837001"
       },
       {
-        "source": "中央纪委国家监委网站",
-        "status": "old",
-        "title": "经中央批准，国家监察委员会决定派出调查组赴湖北省武汉市，就群众反映的涉及李文亮医生的有关问题作全面调查",
-        "topics": [],
-        "url": "http://www.ccdi.gov.cn/toutiao/202002/t20200207_211015.html"
-      },
-      {
         "source": "新华网",
         "status": "old",
         "title": "武汉人社局为李文亮作出工伤认定决定",
@@ -807,13 +779,6 @@
         "title": "陈一新：武汉感染人数未摸清 潜在被感染基数或较大",
         "topics": [],
         "url": "https://www.yicai.com/news/100504176.html"
-      },
-      {
-        "source": "engadget中文版",
-        "status": "old",
-        "title": "受新型冠狀病毒疫情影響，GSMA 正式取消 MWC 2020",
-        "topics": [],
-        "url": "https://chinese.engadget.com/chinese-2020-02-12-gsma-announced-mwc-2020-cancelation-due-to-coronavirus.html?guccounter=1"
       }
     ],
     "status": "old",
@@ -842,13 +807,6 @@
         "title": "法国宣布一例死亡病例 为亚洲以外首例死亡病例",
         "topics": [],
         "url": "http://www.chinanews.com/gj/2020/02-15/9092704.shtml"
-      },
-      {
-        "source": "新京报",
-        "status": "old",
-        "title": "埃及确诊1例新冠肺炎病例，系非洲首例",
-        "topics": [],
-        "url": "http://www.bjnews.com.cn/world/2020/02/15/689837.html"
       },
       {
         "source": "新京报",
@@ -1015,13 +973,6 @@
         "url": "https://news.163.com/20/0219/08/F5O2PN9F0001899O.html"
       },
       {
-        "source": "财新",
-        "status": "old",
-        "title": "“钻石公主”号首批500名乘客开始下船 专家曝船内管理混乱",
-        "topics": [],
-        "url": "http://international.caixin.com/2020-02-19/101517585.html"
-      },
-      {
         "source": "央视新闻",
         "status": "old",
         "title": "现要求你立即停止工作，强制休息，这是命令！",
@@ -1062,13 +1013,6 @@
         "title": "韩红爱心慈善基金被举报 北京市民政局回应",
         "topics": [],
         "url": "http://www.bjnews.com.cn/news/2020/02/20/692579.html"
-      },
-      {
-        "source": "新华网",
-        "status": "old",
-        "title": "日韩确诊感染新冠病毒人数继续增加",
-        "topics": [],
-        "url": "http://www.xinhuanet.com/world/2020-02/20/c_1125598620.htm"
       },
       {
         "source": "四川在线",
@@ -1133,13 +1077,6 @@
         "url": "http://m.news.cctv.com/2020/02/22/ARTInEERXBhr20jgeVl42Xtn200222.shtml"
       },
       {
-        "source": "央视新闻",
-        "status": "old",
-        "title": "美国新冠肺炎病例达到34例 或继续增加",
-        "topics": [],
-        "url": "http://m.news.cctv.com/2020/02/22/ARTIBkv8M9wCSca9UsbsqaxP200222.shtml"
-      },
-      {
         "source": "网易",
         "status": "old",
         "title": "湖北神农架新增1例确诊病例 潜伏期长达27天",
@@ -1161,20 +1098,6 @@
       5,
       7
     ]
-  },
-  {
-    "date": "2/23/2020",
-    "news": [
-      {
-        "source": "新浪",
-        "status": "old",
-        "title": "三场意甲因新冠肺炎宣布延期！国米比赛在列",
-        "topics": [],
-        "url": "https://sports.sina.com.cn/g/seriea/2020-02-23/doc-iimxyqvz5091169.shtml"
-      }
-    ],
-    "status": "old",
-    "topics": []
   },
   {
     "date": "2/24/2020",
@@ -2221,10 +2144,24 @@
     "news": [
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "连花清瘟获批用于新冠肺炎 以岭药业起飞市值7天增百亿",
         "topics": [],
         "url": "http://www.bjnews.com.cn/finance/2020/04/14/716918.html"
+      }
+    ],
+    "status": "old",
+    "topics": []
+  },
+  {
+    "date": "4/17/2020",
+    "news": [
+      {
+        "source": "中国政府网",
+        "status": "latest",
+        "title": "武汉市新冠肺炎疫情防控指挥部关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报",
+        "topics": [],
+        "url": "http://www.nhc.gov.cn/yjb/s7860/202004/6f8eb06d959f4ab7b56fe03236920be1.shtml"
       }
     ],
     "status": "latest",
