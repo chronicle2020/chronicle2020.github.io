@@ -2158,10 +2158,24 @@
     "news": [
       {
         "source": "中国政府网",
-        "status": "latest",
+        "status": "old",
         "title": "武汉市新冠肺炎疫情防控指挥部关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报",
         "topics": [],
         "url": "http://www.nhc.gov.cn/yjb/s7860/202004/6f8eb06d959f4ab7b56fe03236920be1.shtml"
+      }
+    ],
+    "status": "old",
+    "topics": []
+  },
+  {
+    "date": "4/27/2020",
+    "news": [
+      {
+        "source": "新华网",
+        "status": "latest",
+        "title": "武汉在院新冠肺炎患者清零",
+        "topics": [],
+        "url": "http://www.xinhuanet.com/health/2020-04/27/c_1125910353.htm"
       }
     ],
     "status": "latest",
