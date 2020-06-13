@@ -13,7 +13,7 @@ layout: home
 <div class="container pb-4">
   <div class="row">
     <div class="col">
-        只看本次更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary" data-size="small" >
+        只看最新更新 <input id="toggle-latest" type="checkbox" data-toggle="toggle" data-onstyle="outline-primary" data-offstyle="outline-secondary" data-size="small" >
     </div>
     <div class="col old">
         <span class="inline">只看主题</span>
