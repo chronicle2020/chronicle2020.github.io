@@ -2313,13 +2313,13 @@
     "news": [
       {
         "source": "新华",
-        "status": "latest",
+        "status": "old",
         "title": "黑龙江牡丹江市核酸检测大排查发现19名无症状感染者",
         "topics": [],
         "url": "http://www.xinhuanet.com/local/2020-06/08/c_1126089476.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2327,20 +2327,20 @@
     "news": [
       {
         "source": "新华",
-        "status": "latest",
+        "status": "old",
         "title": "湖北省将突发公共卫生应急响应级别由二级调整为三级",
         "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-06/12/c_1126108284.htm"
       },
       {
         "source": "新京报",
-        "status": "latest",
+        "status": "old",
         "title": "北京6大批发市场已全部或部分暂停营业，确诊患者疑到访",
         "topics": [],
         "url": "http://www.bjnews.com.cn/finance/2020/06/12/737679.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2348,45 +2348,73 @@
     "news": [
       {
         "source": "新华",
-        "status": "latest",
+        "status": "old",
         "title": "北京新增4例均与新发地市场有关，45人咽拭子阳性",
         "topics": [],
         "url": "http://www.xinhuanet.com/local/2020-06/13/c_1126110348.htm"
       },
       {
         "source": "新浪",
-        "status": "latest",
+        "status": "old",
         "title": "北京丰台区启动战时机制，成立现场指挥部",
         "topics": [],
         "url": "https://news.sina.com.cn/zx/2020-06-13/doc-iircuyvi8242925.shtml"
       },
       {
         "source": "澎湃",
-        "status": "latest",
+        "status": "old",
         "title": "新发地三文鱼案板测出新冠病毒，北京多家超市连夜下架三文鱼",
         "topics": [],
         "url": "https://www.thepaper.cn/newsDetail_forward_7828707"
       },
       {
         "source": "京报",
-        "status": "latest",
+        "status": "old",
         "title": "国家卫健委向北京派出专家组指导防控工作",
         "topics": [],
         "url": "http://www.bjd.com.cn/a/202006/13/WS5ee4cb62e4b00aba04d21940.html"
       },
       {
         "source": "京报",
-        "status": "latest",
+        "status": "old",
         "title": "丰台对新发地周边11个小区实施封闭管理，24小时专人值守",
         "topics": [],
         "url": "http://www.bjd.com.cn/a/202006/13/WS5ee44781e4b00aba04d21855.html"
       },
       {
         "source": "新浪",
-        "status": "latest",
+        "status": "old",
         "title": "杭州、成都、南京等多地下架三文鱼！曾光：建议暂时别生吃！",
         "topics": [],
         "url": "https://mil.sina.cn/2020-06-13/detail-iirczymk6842689.d.html?vt=4"
+      }
+    ],
+    "status": "old",
+    "topics": []
+  },
+  {
+    "date": "6/14/2020",
+    "news": [
+      {
+        "source": "航空局",
+        "status": "latest",
+        "title": "民航局发出第一份“熔断指令”",
+        "topics": [],
+        "url": "http://www.caac.gov.cn/XWZX/MHYW/202006/t20200614_203079.html"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "6/15/2020",
+    "news": [
+      {
+        "source": "新京报",
+        "status": "latest",
+        "title": "疫情防控工作失职失责 北京丰台区副区长周宇清等被免职",
+        "topics": [],
+        "url": "http://www.bjnews.com.cn/news/2020/06/15/738278.html"
       }
     ],
     "status": "latest",
