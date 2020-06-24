@@ -2418,13 +2418,13 @@
       },
       {
         "source": "财新",
-        "status": "latest",
+        "status": "old",
         "title": "独家|美联航、达美航空获复航 中美航班数将翻倍 ",
         "topics": [],
         "url": "http://companies.caixin.com/2020-06-15/101567615.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2432,24 +2432,94 @@
     "news": [
       {
         "source": "武汉市卫生健康委员会",
-        "status": "latest",
+        "status": "old",
         "title": "武汉市无症状感染者及其密切接触者“清零\"",
         "topics": [],
         "url": "http://wjw.wuhan.gov.cn/ztzl_28/fk/tzgg/202006/t20200616_1379302.shtml"
       },
       {
         "source": "京报",
-        "status": "latest",
+        "status": "old",
         "title": "美国每周允许4班中国航司航班往返美国，数量翻倍",
         "topics": [],
         "url": "http://www.bjd.com.cn/a/202006/16/WS5ee81d6fe4b00aba04d21ffe.html"
       },
       {
         "source": "澎湃",
-        "status": "latest",
+        "status": "old",
         "title": "中国生物新冠灭活疫苗Ⅰ/Ⅱ期临床揭盲，疫苗接种后安全有效",
         "topics": [],
         "url": "https://www.thepaper.cn/newsDetail_forward_7865682"
+      }
+    ],
+    "status": "old",
+    "topics": []
+  },
+  {
+    "date": "6/17/2020",
+    "news": [
+      {
+        "source": "北京晚报",
+        "status": "latest",
+        "title": "重罚 每斤1.3元进的土豆卖到6元 哄抬菜价拟罚10万",
+        "topics": [],
+        "url": "http://bjwb.bjd.com.cn/html/2020-06/17/content_12467164.htm?spm=C73544894212.P99766666351.0.0"
+      },
+      {
+        "source": "中国政府网",
+        "status": "latest",
+        "title": "中央和国家机关即日起暂停接待群众来访",
+        "topics": [],
+        "url": "http://www.gov.cn/xinwen/2020-06/17/content_5520082.htm"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "6/20/2020",
+    "news": [
+      {
+        "source": "中国日报",
+        "status": "latest",
+        "title": "武汉派医疗队驰援北京",
+        "topics": [],
+        "url": "http://cn.chinadaily.com.cn/a/202006/21/WS5eeecdc3a31027ab2a8d143f.html"
+      },
+      {
+        "source": "网易",
+        "status": "latest",
+        "title": "大爷没手机无法出示健康码 半月走千里从安徽到浙江",
+        "topics": [],
+        "url": "https://news.163.com/20/0620/15/FFIUML080001899O.html"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "6/21/2020",
+    "news": [
+      {
+        "source": "新华",
+        "status": "latest",
+        "title": "百事公司北京分厂出现确诊病例已停产停业",
+        "topics": [],
+        "url": "http://www.xinhuanet.com/politics/2020-06/21/c_1126141917.htm"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "6/23/2020",
+    "news": [
+      {
+        "source": "中国新闻网",
+        "status": "latest",
+        "title": "湖北鄂州全民核酸检测结果出炉 检出无症状感染者2例",
+        "topics": [],
+        "url": "http://www.chinanews.com/gn/2020/06-23/9219733.shtml"
       }
     ],
     "status": "latest",
