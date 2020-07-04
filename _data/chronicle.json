@@ -2460,20 +2460,20 @@
     "news": [
       {
         "source": "北京晚报",
-        "status": "latest",
+        "status": "old",
         "title": "重罚 每斤1.3元进的土豆卖到6元 哄抬菜价拟罚10万",
         "topics": [],
         "url": "http://bjwb.bjd.com.cn/html/2020-06/17/content_12467164.htm?spm=C73544894212.P99766666351.0.0"
       },
       {
         "source": "中国政府网",
-        "status": "latest",
+        "status": "old",
         "title": "中央和国家机关即日起暂停接待群众来访",
         "topics": [],
         "url": "http://www.gov.cn/xinwen/2020-06/17/content_5520082.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2481,20 +2481,20 @@
     "news": [
       {
         "source": "中国日报",
-        "status": "latest",
+        "status": "old",
         "title": "武汉派医疗队驰援北京",
         "topics": [],
         "url": "http://cn.chinadaily.com.cn/a/202006/21/WS5eeecdc3a31027ab2a8d143f.html"
       },
       {
         "source": "网易",
-        "status": "latest",
+        "status": "old",
         "title": "大爷没手机无法出示健康码 半月走千里从安徽到浙江",
         "topics": [],
         "url": "https://news.163.com/20/0620/15/FFIUML080001899O.html"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2502,13 +2502,13 @@
     "news": [
       {
         "source": "新华",
-        "status": "latest",
+        "status": "old",
         "title": "百事公司北京分厂出现确诊病例已停产停业",
         "topics": [],
         "url": "http://www.xinhuanet.com/politics/2020-06/21/c_1126141917.htm"
       }
     ],
-    "status": "latest",
+    "status": "old",
     "topics": []
   },
   {
@@ -2516,10 +2516,38 @@
     "news": [
       {
         "source": "中国新闻网",
-        "status": "latest",
+        "status": "old",
         "title": "湖北鄂州全民核酸检测结果出炉 检出无症状感染者2例",
         "topics": [],
         "url": "http://www.chinanews.com/gn/2020/06-23/9219733.shtml"
+      }
+    ],
+    "status": "old",
+    "topics": []
+  },
+  {
+    "date": "7/2/2020",
+    "news": [
+      {
+        "source": "新京报",
+        "status": "latest",
+        "title": "石景山万达广场一顾客自称核酸阳性 商场已整体封闭",
+        "topics": [],
+        "url": "http://www.bjnews.com.cn/news/2020/07/02/744555.html"
+      }
+    ],
+    "status": "latest",
+    "topics": []
+  },
+  {
+    "date": "7/3/2020",
+    "news": [
+      {
+        "source": "新京报",
+        "status": "latest",
+        "title": "石景山万达女子居家隔离期间多次外出，密接至少204人",
+        "topics": [],
+        "url": "http://www.bjnews.com.cn/news/2020/07/03/744948.html"
       }
     ],
     "status": "latest",
